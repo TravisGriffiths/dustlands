@@ -1,13 +1,10 @@
-<!-- YOU CAN DELETE EVERYTHING IN THIS PAGE -->
+<script>
 
-<div class="container h-full mx-auto flex justify-center items-center">
-	<div class="space-y-5">
-		<h1 class="h1">Let's get cracking bones!</h1>
-		<p>Start by exploring:</p>
-		<ul>
-			<li><code class="code">/src/routes/+layout.svelte</code> - barebones layout, the CSS import order is critical!</li>
-			<li><code class="code">/src/app.postcss</code> - minimal css to make the page full screen, may not be relevant for your project</li>
-			<li><code class="code">/src/routes/+page.svelte</code> - this page, you can replace the contents</li>
-		</ul>
-	</div>
-</div>
+</script>
+
+<article>
+	<h1>The Dustlands</h1>
+
+	The Dustlands are merely the wreckage of a once rich and verdant world, called Grabin, rendered to ruins and sand by the great Cataclysm. Civilization clings to the poles where the cold and icecaps allow for enough water to allow for grassy tundra. The equatorial regions are heat baked death zones full of nothing but rock, sand and scorching death...and the treasures of the World that Was.
+
+</article>
