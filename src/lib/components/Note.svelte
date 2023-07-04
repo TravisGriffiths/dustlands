@@ -7,9 +7,7 @@
 <style>
    .note {
       font-family: ScalySansRemake;
-      font-size: .318cm;
-      line-height: 1.2em;
-      background-color: var(--color-tertiary-500);
+      @apply bg-tertiary-500;
       border-style: solid;
       border-width: 1px;
       border-image: url("./noteBorder.png") 12 stretch;
