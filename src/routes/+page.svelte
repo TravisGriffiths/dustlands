@@ -1,5 +1,5 @@
 <script>
-
+	import Note from "$lib/components/Note.svelte";
 </script>
 
 <article>
@@ -11,4 +11,16 @@
 
 
 	<h3>Tertiary</h3>
+
+	<h4>Fourth</h4>
+
+	<h5>Fifth</h5>
+
+	<h6>Sixth</h6>
+
+	<Note>
+		This is a note for highlighting information
+	</Note>
+
+
 </article>
