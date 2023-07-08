@@ -1,11 +1,34 @@
-<script>
+<script lang="ts">
 	import Note from "$lib/components/Note.svelte";
+	import Table from "$lib/components/Table.svelte";
+
+	const exampleTableHeader: Record<string, string> = {
+		language: 'Language',
+		speakers: 'Common Speakers'
+	}
+
+	const exampleTableData: Array<Record<string, string>> = [
+		{
+			language: 'Draconic',
+			speakers: 'Dragons, Kobolds and scholars'
+		},
+		{
+			language: 'Abbysal',
+			speakers: 'Deamons and cultists'
+		},
+		{ 
+			language: 'Elvish', 
+			speakers: 'elves'
+		},
+		{
+			language: 'Ignan',
+			speakers: 'Elementals, Salamanders and Effrit'
+		}
+	]
 </script>
 
 <article>
-	<h1 class="text-primary-500">The Dustlands</h1>
-
-	The Dustlands are merely the wreckage of a once rich and verdant world, called Grabin, rendered to ruins and sand by the great Cataclysm. Civilization clings to the poles where the cold and icecaps allow for enough water to allow for grassy tundra. The equatorial regions are heat baked death zones full of nothing but rock, sand and scorching death...and the treasures of the World that Was.
+	<h1>Title</h1>
 
 	<h2>Secondary</h2>
 
@@ -18,9 +41,25 @@
 
 	<h6>Sixth</h6>
 
+	<article>
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+	</article>
+
+
 	<Note>
 		This is a note for highlighting information
 	</Note>
+
+	<!-- Just for some space-->
+	
+	<div class="my-12" />
+
+
+	<Table
+		header={exampleTableHeader}
+		tableData={exampleTableData} 
+	/>
+
 
 
 </article>
