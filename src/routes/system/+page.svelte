@@ -70,7 +70,7 @@
    karma to turn the critical failure into a success. The other major use of karma is to keep a critical success roll going in 
    order to create massive damage in a single attack. All karma resets back to 3 each session, and so it a "use or lose" pool.
    Im addition, spending 5 karma can buy a hero die if a player desires. Finally, karma may <span class="font-bold">not</span> 
-   be used for Magic, Miracles or any Magic Resistance rolls, these are the manifestation of Chaos, and are immune to moral karma. 
+   be used for Magic, Miracles or any Magic Resistance rolls, these are the manifestation of Chaos, and are immune to mortal karma. 
 
    <h2>Hero Dice</h2>
    Every character get a single hero die at the start of each session. 
