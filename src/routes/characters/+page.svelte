@@ -17,16 +17,36 @@
 
       <h3>Character Creation Steps</h3>
       <ul>
-         <li>Choose a Hero Path</li>
-         <li>Choose a Bloodline</li>
-         <li>Choose Inclinations</li>
-         <li>Create Aspects</li>
-         <li>(Casters Only) Choose a Circle of Sorcery</li>
+         <li>
+            <a href="#paths">
+               Choose a Hero Path
+            </a>
+         </li>
+         <li>
+            <a href="#bloodlines">
+               Choose a Bloodline
+            </a>
+         </li>
+         <li>
+            <a href="#inclinations">
+               Choose Inclinations
+            </a>
+         </li>
+         <li>
+            <a href="#aspects">
+               Create Aspects
+            </a>
+         </li>
+         <li>
+            <a href="#circles">
+               (Casters Only) Choose a Circle of Sorcery
+            </a>
+         </li>
       </ul>
 
    </section>
 
-   <section>
+   <section id="paths">
       <h2>Hero Paths</h2>
       
       A hero path is what would be called a "class" in most other systems. The choice will set the framework and the 
@@ -52,6 +72,11 @@
       <h3>Warrior</h3>
       A professional fighter, soldier or man-at-arms 
       <Stat label="Health" value="3 strikes" />
+
+   </section>
+
+   <section id="bloodlines">
+
 
    </section>
 </article>
