@@ -106,6 +106,16 @@
    exception is when the characters are surprised, in which the turn will instead start with all the opponents, then the players as 
    normal. 
 
+   <h2 id="strikes">Strikes</h2>
+   Most characters have 3 strikes. That is they can be hit 3 times before dying. All normal weapon hits do a single strike of damage unless
+   a critical strike is rolled. Giant weapons like ballista and similar can do two or more strikes per hit. Note that an armor save is for 
+   mitigating a single strike, so that in these rare cases a character can succeed an armor save and still take "overflow" damage.
+   Opponents may be able to take less or more strikes. Healing strikes can happen naturally at a rate of one strike 
+   per day, if the character spends it fully at rest. Magic and some inclinations can speed this up considerably. 
+
+   <h2>Contests</h2>
+   Opposed actions, like grappling are contests. The character and opponent both roll, using any boons and karma spent, and the 
+   highest roll wins. Ties mean there is no winner for this round and the contest continues to the next one. 
 
 
 
