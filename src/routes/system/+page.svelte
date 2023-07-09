@@ -89,11 +89,15 @@
 
    <h2>Actions</h2>
    In Action time, each character gets a <span class="font-bold">move, action</span> and a <span class="font-bold">free action</span>. 
-   A move is the ability for a character to move or reposition. Actions are things like an attack, pick up an item, cast a spell, draw 
-   a weapon or arm a shield. Most things that require a roll are actions. A player may also choose to use actions to do additional 
+   A move is the ability for a character to move or reposition. Actions are things like an attack, pick up an item, cast a spell or arm a shield. Most things that require a roll are actions. A player may also choose to use actions to do additional 
    movement instead of a normal action if desired. A player may also choose to <span class="font-bold">delay</span> which allows a 
    player to jump in at any point in the round before all players and opponents have acted. This allows players to intterupt opponets 
-   so is sometimes desirable. 
+   so is sometimes desirable. Free actions are quick and simple actions, like speaking (short phrases), taking potions, drawing weapons 
+   (as opposed to shields) etc. 
+
+   
+
+
 
 
 
