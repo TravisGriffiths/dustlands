@@ -95,7 +95,14 @@
    so is sometimes desirable. Free actions are quick and simple actions, like speaking (short phrases), taking potions, drawing weapons 
    (as opposed to shields) etc. 
 
+   <h2>Move</h2>
+   A move action can move a character about 30 feet (10 meters). Everything within 30 feet is considered <span class="font-bold">near</span> and 
+   everything farther than that is condiered <span class="font-bold">far</span> difficult terrain can cause the distance covered in 
+   a single move action to be less. 
+
    
+
+
 
 
 
