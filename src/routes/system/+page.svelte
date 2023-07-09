@@ -60,7 +60,8 @@
    strike of damage, and the player may roll to hit again. On the "confirming" roll, rolling a further six will do another strike, 
    and allow a player to roll again to see if the critical hit continues. There is NO limit on how much damage this can cause. It is 
    also totally possible to use <a href="karma">Karma</a> to "bump" these rolls, allowing massive critical strikes when a players really needs them, if 
-   they are willing to spend the resources on them. 
+   they are willing to spend the resources on them. It is also important to know, that if a critical streak continues to do damage 
+   after the first target is defeated, it can continue to strike reachable nearby opponents. 
 
    <h2 id="karma">Karma</h2>
    Karma is a meta currency that all characters have. A character normally gets 3 karma points at the start of any session. As 
@@ -76,6 +77,17 @@
    Every character get a single hero die at the start of each session. This can be used to reroll <span class="font-bold">ANY</span>
    roll made by a player, to include those rolls usually excluded from karma manipulation. This is usually kept to reroll critical 
    rolls like final death saves, but a player may use them at any time they wish. 
+
+   <h2>Time</h2>
+   Time is measured in 3 units. Narrative time, Action time and Scenes. Narrative time is the flow of time when time is not flowing 
+   form moment to moment. It is the normal flow of time during a game session. This may be a few minutes at an Inn or could suddenly
+   leap ahead weeks or months. The flow is organic an set by the story, but each player should get input into what is going on. 
+   Action time is usually the time used when a party engages in combat, but could also be any time where seconds matter and things 
+   are happening very fast. In these cases, player actions go in strict order with each player having an action going around all 
+   players. Scenes are called "encounters" in other systems and is just a natural segment of the story. Most effects with a duration
+   will map to a scene. Action time usually all falls into a single scene each time it starts and stops. 
+
+
 
 
 </article>
