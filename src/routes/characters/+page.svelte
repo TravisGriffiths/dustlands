@@ -1,4 +1,6 @@
-
+<script>
+   import Stat from "$lib/components/Stat.svelte";
+</script>
 
 <article>
 
@@ -49,6 +51,7 @@
 
       <h3>Warrior</h3>
       A professional fighter, soldier or man-at-arms 
+      <Stat label="Health" value="3 strikes" />
 
    </section>
 </article>
