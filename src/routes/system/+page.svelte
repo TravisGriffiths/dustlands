@@ -29,8 +29,8 @@
 
    <h2>Core Combat</h2>
    Every opponent has a difficulty to hit just like tasks. For the average enemy, the target number is 3. Characters are normally
-   simply a 3 for any opponent to hit. Succeeding on an attack roll will always do a single <a href="strikes">strike</a> of 
-   damage on an opponent no matter what the weapon. <a href="crital-hits">Critical Hits</a> can do more damage, see below. 
+   simply a 3 for any opponent to hit. Succeeding on an attack roll will always do a single <a href="#strikes">strike</a> of 
+   damage on an opponent no matter what the weapon. <a href="#crital-hits">Critical Hits</a> can do more damage, see below. 
 
    <h2>Boons</h2>
    When a character is particularly good at doing something, they get a "boon". A boon means you may roll 
@@ -63,7 +63,17 @@
    they are willing to spend the resources on them. 
 
    <h2 id="karma">Karma</h2>
-   Karma is a meta currency that all characters have. A character normally gets 3 karma points 
+   Karma is a meta currency that all characters have. A character normally gets 3 karma points at the start of any session. As 
+   metioned, any failure earns a character an additional karma point. A karma point can be spent to move a roll by 1 for each 
+   karma point spent. If the karma spent turns the roll into a <span class="font-bold">success</span> the karma is spent and 
+   the character succeeds in a task. Note that karma cannot mitigate a critical failure unless a player decides to spend enough
+   karma to turn the critical failure into a success. The other major use of karma is to keep a critical success roll going in 
+   order to create massive damage in a single attack. All karma resets back to 3 each session, and so it a "use or lose" pool.
+   Im addition, spending 5 karma can buy a hero die if a player desires. Finally, karma may <span class="font-bold">not</span> 
+   be used for Magic, Miracles or any Magic Resistance rolls, these are the manifestation of Chaos, and are immune to moral karma. 
+
+   <h2>Hero Dice</h2>
+   Every character get a single hero die at the start of each session. 
 
 
 </article>
