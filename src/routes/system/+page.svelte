@@ -76,7 +76,8 @@
    <h2>Hero Dice</h2>
    Every character get a single hero die at the start of each session. This can be used to reroll <span class="font-bold">ANY</span>
    roll made by a player, to include those rolls usually excluded from karma manipulation. This is usually kept to reroll critical 
-   rolls like final death saves, but a player may use them at any time they wish. 
+   rolls like final death saves, but a player may use them at any time they wish. The reroll must be kept, unless a second hero die 
+   is used for a further reroll. 
 
    <h2>Time</h2>
    Time is measured in 3 units. Narrative time, Action time and Scenes. Narrative time is the flow of time when time is not flowing 
@@ -100,7 +101,12 @@
    everything farther than that is condiered <span class="font-bold">far</span> difficult terrain can cause the distance covered in 
    a single move action to be less. 
 
-   
+   <h2>Initiative</h2>
+   Normally, all players go in order around the table, in whatever direction the players wish. Then all the opponents act. The only
+   exception is when the characters are surprised, in which the turn will instead start with all the opponents, then the players as 
+   normal. 
+
+
 
 
 
