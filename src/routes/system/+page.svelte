@@ -73,7 +73,9 @@
    be used for Magic, Miracles or any Magic Resistance rolls, these are the manifestation of Chaos, and are immune to mortal karma. 
 
    <h2>Hero Dice</h2>
-   Every character get a single hero die at the start of each session. 
+   Every character get a single hero die at the start of each session. This can be used to reroll <span class="font-bold">ANY</span>
+   roll made by a player, to include those rolls usually excluded from karma manipulation. This is usually kept to reroll critical 
+   rolls like final death saves, but a player may use them at any time they wish. 
 
 
 </article>
