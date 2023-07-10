@@ -106,22 +106,40 @@
    exception is when the characters are surprised, in which the turn will instead start with all the opponents, then the players as 
    normal. 
 
+   <h2>Contests</h2>
+   Opposed actions, like grappling are contests. The character and opponent both roll, using any boons and karma spent, and the 
+   highest roll wins. Ties mean there is no winner for this round and the contest continues to the next one. 
+
+   <h2>Saves</h2>
+   There are rolls to resist negative effects or damage. There are several different types and they all work a bit differently. 
+
+   <h4>Armor</h4>
+   By far the most common type of save. Whenever a character is hit, they can make an armor save. In general, this is a 4 or better for 
+   heavy armor, 5 or better for medium and a 6 for light. If the player succeeds on the save, the strike does not penetrate. If a character
+   is hit with a critical, the save is rolled for each strike of the critical, potentially mitiating each. For very large weapons or 
+   massive spells that do more than a single strike in an attack, only the first strike may be deflected. 
+
+   <h4>Miraculous</h4>
+   When a charcter faces a certain death *save or die* situation the player rolls a miraculous save. Each character path has a target 
+   for what this roll is, but most have to roll a hard 6. As this is essentially divine intervention, karma may 
+   <span class="font-bold">not</span> be used for this roll, but hero dice may. For most other "save" type of events, being on fire 
+   being poisoned, or falling, this is also a miraculous save. However, because these are more "mundane" rather than divine checks, 
+   a player <span class="font-bold">can</span> use karma on these rolls. For most of these, as the damage potential is open ended, the 
+   player will roll taking strikes for every failed save until they succeed...or die <a href="injuries">(see: injuries)</a>. For effects 
+   like poison or burning that take place over time, this will be one save per turn. For instant effects, like a fall, all saves and damage 
+   is rolled, and applied in one turn. This makes these effects considerably more deadly than in many other games, and makes resistance or 
+   boons with these rolls more valuable than many players expect. 
+
+   <h4>Magic</h4>
+   Many spells require a target to resist. The roll is usually determined by the spell and caster. For example, a spell cast against 
+   many targets is much easier to resist than one cast against only one. As this is the stuff of raw chaos however
+
    <h2 id="strikes">Strikes</h2>
    Most characters have 3 strikes. That is they can be hit 3 times before dying. All normal weapon hits do a single strike of damage unless
    a critical strike is rolled. Giant weapons like ballista and similar can do two or more strikes per hit. Note that an armor save is for 
    mitigating a single strike, so that in these rare cases a character can succeed an armor save and still take "overflow" damage.
    Opponents may be able to take less or more strikes. Healing strikes can happen naturally at a rate of one strike 
    per day, if the character spends it fully at rest. Magic and some inclinations can speed this up considerably. 
-
-   <h2>Contests</h2>
-   Opposed actions, like grappling are contests. The character and opponent both roll, using any boons and karma spent, and the 
-   highest roll wins. Ties mean there is no winner for this round and the contest continues to the next one. 
-
-
-
-
-
-
 
 
 </article>
