@@ -1,4 +1,6 @@
-
+<script>
+   import T from "$lib/components/T.svelte";
+</script>
 
 <article>
 
@@ -125,21 +127,36 @@
    <span class="font-bold">not</span> be used for this roll, but hero dice may. For most other "save" type of events, being on fire 
    being poisoned, or falling, this is also a miraculous save. However, because these are more "mundane" rather than divine checks, 
    a player <span class="font-bold">can</span> use karma on these rolls. For most of these, as the damage potential is open ended, the 
-   player will roll taking strikes for every failed save until they succeed...or die <a href="injuries">(see: injuries)</a>. For effects 
+   player will roll taking strikes for every failed save until they succeed...or die <a href="strikes">(see: strikes)</a>. For effects 
    like poison or burning that take place over time, this will be one save per turn. For instant effects, like a fall, all saves and damage 
    is rolled, and applied in one turn. This makes these effects considerably more deadly than in many other games, and makes resistance or 
    boons with these rolls more valuable than many players expect. 
 
    <h4>Magic</h4>
    Many spells require a target to resist. The roll is usually determined by the spell and caster. For example, a spell cast against 
-   many targets is much easier to resist than one cast against only one. As this is the stuff of raw chaos however
+   many targets is much easier to resist than one cast against only one. As this is the stuff of raw chaos however karma can not be used 
+   either to boost these rolls.  
 
    <h2 id="strikes">Strikes</h2>
    Most characters have 3 strikes. That is they can be hit 3 times before dying. All normal weapon hits do a single strike of damage unless
    a critical strike is rolled. Giant weapons like ballista and similar can do two or more strikes per hit. Note that an armor save is for 
-   mitigating a single strike, so that in these rare cases a character can succeed an armor save and still take "overflow" damage.
+   mitigating a single strike, so that in these rare cases, involving massive weapons or spells, a character can succeed an armor 
+   save and still take "overflow" damage. This does not apply to simple crits. Each strike in a crit series has an armor roll as normal 
    Opponents may be able to take less or more strikes. Healing strikes can happen naturally at a rate of one strike 
    per day, if the character spends it fully at rest. Magic and some inclinations can speed this up considerably. 
+   
+   <h4>Uncouncious and Dying</h4>
+   When a character takes the last strike, they get a miraculous save to avoid it in <T c="b">addition</T> to the normal armor save. 
+   Succeeding on this roll prevents the strike. This roll may not use karma. Failing this a character falls unconcious. They lose all 
+   spell anchors, fall prone, and may suffer other effects depending on the situation. Absent any intervention, the character must 
+   succeed on a miraculous save every turn without help from karma or will <T c="b">die</T>. For characters having inclinations making 
+   them resistant to death, the bonus or reroll only applies to the very first roll to fall unconcious, not to any following saves. The 
+   chances of any character surviving more than a round or two in this state are remote. Resurection, is occasionally possible, but rarely 
+   succeeds. To have any chance of succeeding, it must be attempted within 3 days of death. The body must be in excellent condition. The 
+   miracle roll is made against maximum resistance, being a full six resistance dice. Failure often causes the body to raise as a 
+   zombie or other undead, although cases of divine fire consuming the body or worse effects are known. The failure effect is always bad, and up to 
+   the player of the dead character, but no retries are going to be possible.  Resurection is theoretically possible, but the Gods 
+   do not often give up souls. 
 
 
 </article>
