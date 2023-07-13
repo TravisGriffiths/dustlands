@@ -176,7 +176,7 @@
    <h4>Spell Power</h4>
    Every caster can use from one to three dice to power thier spells and overcome the resistance roll. The trade off is that any one rolled 
    on any of these dice cause the spell to fail, no matter what the highest roll was, unless the caster decides to "push through" and take 
-   Spell Burn. That is, they can choose to willingly take a strike of damage to have the spell succeed IF the roll would have otherwise been 
+   <T c="b">Spell Burn</T>. That is, they can choose to willingly take a strike of damage to have the spell succeed IF the roll would have otherwise been 
    a success. This is totally up to the player. Using more dice on a spell has no other effect on things like the damage done. Spells 
    <T c="b">CANNOT</T> be critical successes. 
 
@@ -192,6 +192,23 @@
       <li>Player decides on spell burn if applicable.</li>
       <li>Spell takes effect or fails</li>
    </ol>
+
+   <h4>Effects</h4>
+   An incomplete list of possible effects 
+   <ul>
+      <li>Blind</li>
+      <li>Deaf</li>
+      <li>Afraid</li>
+      <li>Exhausted</li>
+      <li>Force Move</li>
+      <li>Immobile</li>
+      <li>Knocked Down</li>
+      <li>Cursed</li>
+      <li>Polymorphed</li>
+      <li>Silenced</li>
+      
+   </ul>
+   
 
 
 
