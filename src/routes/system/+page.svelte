@@ -196,8 +196,7 @@
    <h4>Effects</h4>
    An incomplete list of possible effects 
    <ul>
-      <li>Blind</li>
-      <li>Deaf</li>
+      <li>Dulled Senses</li>
       <li>Afraid</li>
       <li>Exhausted</li>
       <li>Force Move</li>
@@ -206,7 +205,17 @@
       <li>Cursed</li>
       <li>Polymorphed</li>
       <li>Silenced</li>
-      
+      <li>Stunned</li>
+      <li>Slowed</li>
+   </ul>
+
+   Beneficial Effects
+   <ul>
+      <li>Armored</li>
+      <li>Enhanced Senses</li>
+      <li>Boosted</li>
+      <li>Concealed</li>
+      <li>Enhanced Movement</li>
    </ul>
    
 
