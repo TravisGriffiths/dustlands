@@ -143,7 +143,8 @@
    mitigating a single strike, so that in these rare cases, involving massive weapons or spells, a character can succeed an armor 
    save and still take "overflow" damage. This does not apply to simple crits. Each strike in a crit series has an armor roll as normal 
    Opponents may be able to take less or more strikes. Healing strikes can happen naturally at a rate of one strike 
-   per day, if the character spends it fully at rest. Magic and some inclinations can speed this up considerably. 
+   per day, if the character spends it fully at rest. Healing in this manner requires a proper place to really rest. Hard living 
+   out in the wilderness is not going to allow this to happen. A character must be in a <a href="#sanctuaries">Sanctuary</a> to rest. This does not need to be anything complex. Just a "home base", or a comfortable area free of stress and challenges. See details below. Magic and some inclinations can speed this up considerably. 
    
    <h4>Uncouncious and Dying</h4>
    When a character takes the last strike, they get a miraculous save to avoid it in <T c="b">addition</T> to the normal armor save. 
@@ -219,6 +220,8 @@
    </ul>
    
 
+   <h2 id="sanctuaries">Sanctuaries</h2>
+   These are simply locations where a character can rest and heal effectively. Most paid lodging, Inns and the like would be considered a sanctuary, while camping and living hard would not. Healing can still take place out in the wild, but takes much longer. A character can only heal a single strick per <T c="b">week</T> outside of a sanctuary. Most parties will develop one, or even multiple "bases" that count as sanctuaries for this purpose. 
 
 
 </article>
