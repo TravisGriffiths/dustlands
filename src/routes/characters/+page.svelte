@@ -72,6 +72,10 @@
       <h3>Warrior</h3>
       A professional fighter, soldier or man-at-arms 
       <Stat label="Health" value="3 strikes" />
+      <Stat label="Armor" value="Heavy 3+ w/shield otherwise 4+" />
+      <Stat label="Boon" value="Strength and Melee" />
+
+      
 
    </section>
 
