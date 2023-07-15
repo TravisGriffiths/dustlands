@@ -221,7 +221,8 @@
    
 
    <h2 id="sanctuaries">Sanctuaries</h2>
-   These are simply locations where a character can rest and heal effectively. Most paid lodging, Inns and the like would be considered a sanctuary, while camping and living hard would not. Healing can still take place out in the wild, but takes much longer. A character can only heal a single strick per <T c="b">week</T> outside of a sanctuary. Most parties will develop one, or even multiple "bases" that count as sanctuaries for this purpose. 
+   These are simply locations where a character can rest and heal effectively. Most paid lodging, Inns and the like would be considered a sanctuary, while camping and living hard would not. Healing can still take place out in the wild, but takes much longer. A character can only heal a single strick per <T c="b">week</T> outside of a sanctuary. Most parties will develop one, or even multiple "bases" that count as sanctuaries for this purpose. Wardens have the ability to make semi-permanent "camps"
+   that are able to serve as sanctuaries. 
 
 
 </article>
