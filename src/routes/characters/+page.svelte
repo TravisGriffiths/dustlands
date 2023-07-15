@@ -75,7 +75,17 @@
       <Stat label="Armor" value="Heavy 3+ w/shield otherwise 4+" />
       <Stat label="Boon" value="Strength and Melee" />
 
-      
+      <div>
+         <h4>Inclinations</h4>
+
+         <div class="my-2">
+            <i>Shield Sacrifice</i> - Once per scene as a free action, you may choose to deflect all attack damage from yourself or a close ally 
+            for the entire round, but your shield is destroyed by this maneuver. You can activate this even after damage has been inflicted.
+            You may spend 5 karma to avoid destroying your shield. If your shield is destroyed, your Armor save becomes the normal shieldless 4+. 
+            A warrior must be using a shield to use this maneuver (naturally). 
+         </div>
+      </div>
+
 
    </section>
 
