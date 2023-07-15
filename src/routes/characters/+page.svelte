@@ -250,7 +250,7 @@
      <div>
 
       <div class="my-2">
-         <i>Scroll Master</i> - You are able to cast magic from scrolls. Start with 2 random scrolls. 
+         <i>Scroll Master</i> - You are able to cast magic from <a href="/system#scrolls">scrolls</a>. Start with 2 random scrolls. 
       </div>
 
       <div class="my-2">
