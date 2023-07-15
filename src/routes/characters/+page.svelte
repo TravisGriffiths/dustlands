@@ -211,7 +211,30 @@
          <i>Focus</i> - You have a magic focus, (wand, staff etc.) which can make magic attacks doing a single strike of damage. 
          These attacks are unable to crit. You must choose the nature of these attacks at creation (bolts of fire, necrotic rot etc.). 
          No matter the nature of the attack, these simple focus strikes will not have secondary effects, e.g. fire bolts will not start fires, but outright magic spells <i>can</i>.
+      </div>
 
+     </div>
+
+     <hr>
+
+     <h3>Friar</h3>
+     A shaman, holy man, priest or charlatan
+     <Stat label="Health" value="3 strikes" />
+     <Stat label="Armor" value="Medium and Blessed, Save on both Armor and Miraculous checks on a 5+" />
+     <Stat label="Boon" value="Resisting heretical Magic and Religious knowledge checks" />
+
+     <div>
+
+      <div class="my-2">
+         <i>Empathic Healing</i> - As a free action. Heal anyone in near range of a single strike by absorbing one strike. They gain a strike you lose one. 
+      </div>
+
+      <div class="my-2">
+         <i>Holy Light</i> - As an action, once per day, call down holy light within near range. The light can either heal allies or damage enemies. 
+         For healing, roll number of dice equal to number of allies. For each 4+ in this pool, you can heal a single strike on an ally of your choice.
+         No ally may be affected by more than a single strike of healing. 
+         For damaging enemies, roll the same pool equal to the number of enemies, each 4+ allows you to inflict a single strike. Undead and deamons take 2 strikes for each of these. 
+         You can regain this abilty by spending 5 karma. In addition, unlike other miraculous or magical effects, you may spend karma on these rolls. 
       </div>
 
      </div>
