@@ -339,9 +339,9 @@
 
       <h4>Mixed Bloodline</h4>
       <ul>
-         <li><b>Erudite</b> <i>Major</i> Pick an additional inclination</li>
-         <li><b>Affluent</b><i>Minor</i> Start with 2 healing potions or an extra random scroll</li>
-         <li><b>Aquatic Bloodline</b><i>Minor</i> Boon to swimming and similar checks in water</li>
+         <li><b class="mr-2">Erudite</b> <i>Major</i> Pick an additional inclination</li>
+         <li><b class="mr-2">Affluent</b><i>Minor</i> Start with 2 healing potions or an extra random scroll</li>
+         <li><b class="mr-2">Aquatic Bloodline</b><i>Minor</i> Boon to swimming and similar checks in water</li>
       </ul>
       
 
