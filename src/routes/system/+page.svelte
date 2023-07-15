@@ -159,20 +159,12 @@
    the player of the dead character, but no retries are going to be possible.  Resurection is theoretically possible, but the Gods 
    do not often give up souls. 
 
-   <h2>Magic & Miracles</h2>
-   Full magic casters will have a "circle" of magic in which they have been inducted or otherwise trained. This sets the flavor and 
-   tone of all the spell effects they can use. These effects are <T c="b">not</T> enumerated. Magic is chaos and doesn't sit in a
-   dictionary to be memorized or cataloged. Each caster has to navigate the path the mastering chaos personally, and even casters 
-   the same circle who studied the same effect under the same teacher will have significant, even huge differences in all the details 
-   of magical effects they create. For players this means they make up spells as desired, in accordance with the flavor of the character's 
-   chosen circle. The resistance roll against the effect taking place is decided by the GM depending on how expansive, powerful and 
-   closely the spell adhears to the casters circle. For simple effects happening in narative time that hold to the flavor of a magic 
-   circle is unlikely to require a roll at all. A elemental pyromancer can light fires in narrative time without having to roll. For 
-   other effects, with some exceptions, a caster can only cause a single strike of damage, which will be resisted with a single die. 
-   Adding targets, adds dice, up to the maximum of 6. A few circles bend these guidelines a bit. Lesser effects are easier, while effects 
-   that instantly remove threats (e.g. turn an opponent to stone) will be harder. Any spell that takes place over multiple rounds must 
-   be anchored, that is, concentrated on. Only one effect can be anchored at a time. Taking any strikes, or falling unconcious will break 
-   the anchored spell.
+   <h2 id="spells">Magic & Miracles</h2>
+   Full magic casters will have a "circle" of magic in which they have been inducted or otherwise trained. This sets the flavor and tone of all the spell effects they can use. These effects are <T c="b">not</T> enumerated. Magic is chaos and doesn't sit in a dictionary to be memorized or cataloged. Each caster has to navigate the path the mastering chaos personally, and even casters the same circle who studied the same effect under the same teacher will have significant, even huge differences in all the details of magical effects they create. For players this means they make up spells as desired, in accordance with the flavor of the character's chosen circle. The resistance roll against the effect taking place is decided by the GM depending on how expansive, powerful and closely the spell adhears to the casters circle. For simple effects happening in narative time that hold to the flavor of a magic circle is unlikely to require a roll at all. A elemental pyromancer can light fires in narrative time without having to roll. For other effects, with some exceptions, a caster can only cause a single strike of damage, which will be resisted with a single die. 
+   Adding targets, adds dice, up to the maximum of 6. A few circles bend these guidelines a bit. 
+   Lesser effects are easier, while effects that instantly remove threats (e.g. turn an opponent to stone) will be harder. 
+   Any spell that takes place over multiple rounds must be anchored, that is, concentrated on. 
+   Only one effect can be anchored at a time. Taking any strikes, or falling unconcious will break the anchored spell.
 
    <h4>Spell Power</h4>
    Every caster can use from one to three dice to power thier spells and overcome the resistance roll. The trade off is that any one rolled 
