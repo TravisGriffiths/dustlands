@@ -326,15 +326,15 @@
 
       <h4>Arcane Bloodline</h4>
       <ul>
-         <li><b>Stalwart Will</b><i>Minor</i> Boon to resist mind altering magic</li>
-         <li><b>Shadow Sight</b><i>Minor</i> Double vision range in dim light</li>
-         <li><b>Arcane Link</b><i>Minor</i> Can summon a small ball of light in your hand at will</li>
-         <li><b>Fireblooded</b><i>Minor</i> Boon to resist fire. (may only select a single Elemental resistance)</li>
-         <li><b>Iceblooded</b><i>Minor</i> Boon to resist cold.  (may only select a single Elemental resistance)</li>
-         <li><b>Shockblooded</b><i>Minor</i> Boon to resist lighting.  (may only select a single Elemental resistance)</li>
-         <li><b>Acidblooded</b><i>Minor</i> Boon to resist acid.  (may only select a single Elemental resistance)</li>
-         <li><b>Wareblooded</b><i>Minor</i> Can grow teeth and claws at will, Boon to climb, can use as Melee Weapons</li>
-         <li><b>Blindsight</b><i>Major</i> Able to ecolocate and see in full darkness</li>
+         <li><b class="mr-2">Stalwart Will</b><i>Minor</i> Boon to resist mind altering magic</li>
+         <li><b class="mr-2">Shadow Sight</b><i>Minor</i> Double vision range in dim light</li>
+         <li><b class="mr-2">Arcane Link</b><i>Minor</i> Can summon a small ball of light in your hand at will</li>
+         <li><b class="mr-2">Fireblooded</b><i>Minor</i> Boon to resist fire. (may only select a single Elemental resistance)</li>
+         <li><b class="mr-2">Iceblooded</b><i>Minor</i> Boon to resist cold.  (may only select a single Elemental resistance)</li>
+         <li><b class="mr-2">Shockblooded</b><i>Minor</i> Boon to resist lighting.  (may only select a single Elemental resistance)</li>
+         <li><b class="mr-2">Acidblooded</b><i>Minor</i> Boon to resist acid.  (may only select a single Elemental resistance)</li>
+         <li><b class="mr-2">Wareblooded</b><i>Minor</i> Can grow teeth and claws at will, Boon to climb, can use as Melee Weapons</li>
+         <li><b class="mr-2">Blindsight</b><i>Major</i> Able to ecolocate and see in full darkness</li>
       </ul>
 
       <h4>Mixed Bloodline</h4>
