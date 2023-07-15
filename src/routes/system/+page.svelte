@@ -217,4 +217,16 @@
    that are able to serve as sanctuaries. 
 
 
+   <h2 id="scrolls">Scrolls, Potions and Magic Items</h2>
+   Scrolls are consumable magic items that allow characters with the proper training to cast the magic contained in them. 
+   They are destroyed on use. Scrolls are most commonly written on sheets of paper, but can be any inscription of a spell ritual allowing the trained to make use a consumable spell effect. Clay tablets, carved bones, even tatoos are possible. These are created by Sorcerers, and require time and karma to complete. Most magic circles require acolytes to produce quite a few of these before they can graduate. These are most often sold or distributed and are a key source of the circles financial and political power. To cast from a scroll, a player rolls 2 six sided dice and reroll any ones (scrolls cannot critical fail by nature) for the casting check. 
+   
+   <p></p> 
+   
+   <b>Potions</b> are a different beast, being a consumable magic item usable by anyone. These are possible as magic is woven into the nature of the entire world, and those who have studied these natures can distill these effects and inclinations into useful effects. While circle sorcers often do study Alchemy, the full time creation of potions is usually done by trained Alchemists, who produce these as a primary job. Most settlements will have at least a single individual trained in creating potions. They may be willing to sell (or buy) both potions and ingredients from characters.
+
+   <p></p>
+
+   Magic Items are created by Sorcerers much like Scrolls. The art of doing this well, and safely, is considerably more involved and thus tends to be a specialty within the schools. Artificers require significantly long times and karma to produce these items, and so are not typically done by characters. These items are often commisioned by the wealthy and powerful from skilled artificers. Once created, these items resist the passage of time and are hard to destroy, and so are prized treasures to be found in ruins and ancient sites. 
+
 </article>
