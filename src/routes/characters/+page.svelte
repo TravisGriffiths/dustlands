@@ -309,8 +309,10 @@
       <ul>
          <li><b>Vigorous Metabolism</b><i>Minor</i> Boon to resist poison</li>
          <li><b>Ogre Blood</b><i>Minor</i> Boon to Strength tasks</li>
+         <li><b>Pureblood Ogre</b><i>Major</i> Succeed on save to loose your last strike on a 4+</li>
          <li><b>Troll Blood</b><i>Minor</i> Regain one strike per day outside a sanctuary</li>
          <li><b>Pureblood Troll</b><i>Major</i> Regain one strike per at the start of each scene</li>
+         <li><b>Orcish Tradition</b><i>Minor</i> Boon to Melee (cannot stack with any other source)</li>
       </ul>
 
       <h4>Diminuative Bloodline</h4> 
@@ -318,6 +320,8 @@
          <li><b>Ground Level</b><i>Minor</i> Boon to notice threats below eye level.</li>
          <li><b>Scamper</b><i>Minor</i> Foes larger than you have difficulty hitting you (+1 to target number)</li>
          <li><b>Scurry</b><i>Minor</i> As a move can hide in cover or broken ground. Avoids all attacks, but may not attck to remain hidden.</li>
+         <li><b>A Little Luck</b><i>Major</i> Start with 3 extra karma</li>
+         <li><b>Beneath Notice</b><i>Minor</i> Boon on checks to hide and sneak</li>
       </ul>
 
       <h4>Arcane Bloodline</h4>
@@ -325,12 +329,18 @@
          <li><b>Stalwart Will</b><i>Minor</i> Boon to resist mind altering magic</li>
          <li><b>Shadow Sight</b><i>Minor</i> Double vision range in dim light</li>
          <li><b>Arcane Link</b><i>Minor</i> Can summon a small ball of light in your hand at will</li>
+         <li><b>Fireblooded</b><i>Minor</i> Boon to resist fire. (may only select a single Elemental resistance)</li>
+         <li><b>Iceblooded</b><i>Minor</i> Boon to resist cold.  (may only select a single Elemental resistance)</li>
+         <li><b>Shockblooded</b><i>Minor</i> Boon to resist lighting.  (may only select a single Elemental resistance)</li>
+         <li><b>Acidblooded</b><i>Minor</i> Boon to resist acid.  (may only select a single Elemental resistance)</li>
+         <li><b>Wareblooded</b><i>Minor</i> Can grow teeth and claws at will, Boon to climb, can use as Melee Weapons</li>
+         <li><b>Blindsight</b><i>Major</i> Able to ecolocate and see in full darkness</li>
       </ul>
 
       <h4>Mixed Bloodline</h4>
       <ul>
          <li><b>Erudite</b> <i>Major</i> Pick an additional inclination</li>
-         <li><b>Affluent</b><i>Minor</i> Start with a healing potion</li>
+         <li><b>Affluent</b><i>Minor</i> Start with 2 healing potions or an extra random scroll</li>
          <li><b>Aquatic Bloodline</b><i>Minor</i> Boon to swimming and similar checks in water</li>
       </ul>
       
