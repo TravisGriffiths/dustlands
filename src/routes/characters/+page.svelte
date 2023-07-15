@@ -296,6 +296,44 @@
 
    <section id="bloodlines">
 
+      <h2>Bloodlines</h2>
+      For thousands of years, all of the old races, elves, dwarves, goblins, orc, even ogres and trolls lived in proximity. Crossbreeding was inevitable. 
+      The cataclysm made this even more pronounced, as pure survival overtook petty concerns of racial purity. 
+      As a result, everyone has mixed parantage, usually in a complex and unfathomable complexity going back over unrecorded centuries. 
+      Heights and sizes range from nearly 3 feet to over 7 feet tall, with variations of pointed ears, facial hair and a vast range of skin tones. 
+      Different individuals retain differnt advantages from this genetic diversity. These are divided into major and minor traits. 
+      A character may have a single major bloodline trait or 2 minor traits selected from those below. 
+      Selections must all come from a single bloodline choice, and the mixed bloodline, since many phenotypes are opposites (large and small size for example)
+
+      <h4>Robust Bloodline</h4>
+      <ul>
+         <li><b>Vigorous Metabolism</b><i>Minor</i> Boon to resist poison</li>
+         <li><b>Ogre Blood</b><i>Minor</i> Boon to Strength tasks</li>
+         <li><b>Troll Blood</b><i>Minor</i> Regain one strike per day outside a sanctuary</li>
+         <li><b>Pureblood Troll</b><i>Major</i> Regain one strike per at the start of each scene</li>
+      </ul>
+
+      <h4>Diminuative Bloodline</h4> 
+      <ul>
+         <li><b>Ground Level</b><i>Minor</i> Boon to notice threats below eye level.</li>
+         <li><b>Scamper</b><i>Minor</i> Foes larger than you have difficulty hitting you (+1 to target number)</li>
+         <li><b>Scurry</b><i>Minor</i> As a move can hide in cover or broken ground. Avoids all attacks, but may not attck to remain hidden.</li>
+      </ul>
+
+      <h4>Arcane Bloodline</h4>
+      <ul>
+         <li><b>Stalwart Will</b><i>Minor</i> Boon to resist mind altering magic</li>
+         <li><b>Shadow Sight</b><i>Minor</i> Double vision range in dim light</li>
+         <li><b>Arcane Link</b><i>Minor</i> Can summon a small ball of light in your hand at will</li>
+      </ul>
+
+      <h4>Mixed Bloodline</h4>
+      <ul>
+         <li><b>Erudite</b> <i>Major</i> Pick an additional inclination</li>
+         <li><b>Affluent</b><i>Minor</i> Start with a healing potion</li>
+         <li><b>Aquatic Bloodline</b><i>Minor</i> Boon to swimming and similar checks in water</li>
+      </ul>
+      
 
    </section>
 </article>
