@@ -95,7 +95,27 @@
          </div>
       </div>
       
+      <hr>
 
+      <h3>Warden</h3>
+      A master of the wilderness, hunter, a survivor
+      <Stat label="Health" value="3 strikes" />
+      <Stat label="Armor" value="Medium (5+), Miraculous Save 6" />
+      <Stat label="Boon" value="Ranged Weapons and Wilderness Tasks" />
+
+      <div>
+         <div class="my-2">
+            <i>Trailfinder</i> - You can track and find traces of passing creatures or individuals. 
+         </div>
+
+         <div class="my-2">
+            <i>Forager</i> - You can sustain yourself and others in the outdoors. Under most circumstanses, this is automatic, but in challenging conditions this might require rolls. 
+         </div>
+
+         <div class="my-2">
+            <i>Make Camp</i> - Given at least 3 hours in normal conditions, you can create a camp comfortable enough to count as a <a href="/system#sanctuaries">sanctuary</a>, allowing party members to recover hits while resting there. 
+         </div>
+      </div>
 
    </section>
 
