@@ -142,7 +142,25 @@
 
       </div>
 
-     
+      <hr>
+
+      <h3>Brute</h3>
+      A tower of muscle and primal rage
+      <Stat label="Health" value="5 strikes" />
+      <Stat label="Armor" value="Light (5+), Miraculous Save 6" />
+      <Stat label="Boon" value="Melee and Strength tasks" />
+
+     <div>
+
+         <div class="my-2">
+            <i>Enrage</i> - You can sacrifice one of your strikes to inflict an extra strike on a hit. 
+         </div>
+
+         <div class="my-2">
+            <i>Superstitious</i> - You have a boon to resist magic you do not wish to affect you. 
+         </div>
+
+     </div>
 
    </section>
 
