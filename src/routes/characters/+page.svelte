@@ -307,12 +307,12 @@
 
       <h4>Robust Bloodline</h4>
       <ul>
-         <li><b>Vigorous Metabolism</b><i>Minor</i> Boon to resist poison</li>
-         <li><b>Ogre Blood</b><i>Minor</i> Boon to Strength tasks</li>
-         <li><b>Pureblood Ogre</b><i>Major</i> Succeed on save to loose your last strike on a 4+</li>
-         <li><b>Troll Blood</b><i>Minor</i> Regain one strike per day outside a sanctuary</li>
-         <li><b>Pureblood Troll</b><i>Major</i> Regain one strike per at the start of each scene</li>
-         <li><b>Orcish Tradition</b><i>Minor</i> Boon to Melee (cannot stack with any other source)</li>
+         <li><b class="mr-2">Vigorous Metabolism</b><i>Minor</i> Boon to resist poison</li>
+         <li><b class="mr-2">Ogre Blood</b><i>Minor</i> Boon to Strength tasks</li>
+         <li><b class="mr-2">Pureblood Ogre</b><i>Major</i> Succeed on save to loose your last strike on a 4+</li>
+         <li><b class="mr-2">Troll Blood</b><i>Minor</i> Regain one strike per day outside a sanctuary</li>
+         <li><b class="mr-2">Pureblood Troll</b><i>Major</i> Regain one strike per at the start of each scene</li>
+         <li><b class="mr-2">Orcish Tradition</b><i>Minor</i> Boon to Melee (cannot stack with any other source)</li>
       </ul>
 
       <h4>Diminuative Bloodline</h4> 
