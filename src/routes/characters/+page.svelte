@@ -84,7 +84,12 @@
             You may spend 5 karma to avoid destroying your shield. If your shield is destroyed, your Armor save becomes the normal shieldless 4+. 
             A warrior must be using a shield to use this maneuver (naturally). 
          </div>
+
+         <div class="my-2">
+            <i>Brutal Strikes</i> - As a master of two handed weapons, your strikes score critical hits on a 5 or 6. You cannot use a shield to use this, and must have a two handed weapon equiped.
+         </div>
       </div>
+      
 
 
    </section>
