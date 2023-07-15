@@ -258,7 +258,7 @@
         </div>
 
         <div class="my-2">
-           <i>Survivalist</i> - Given nothing but sticks and stones, , and some time, can 
+           <i>Survivalist</i> - Given nothing but sticks and stones, bones and leather, and some time, can create simple tools, weapons and light armor. 
         </div>
      </div>
 
