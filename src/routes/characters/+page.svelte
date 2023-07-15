@@ -322,6 +322,7 @@
          <li><b class="mr-2">Scurry</b><i>Minor</i> As a move can hide in cover or broken ground. Avoids all attacks, but may not attck to remain hidden.</li>
          <li><b class="mr-2">A Little Luck</b><i>Major</i> Start with 3 extra karma</li>
          <li><b class="mr-2">Beneath Notice</b><i>Minor</i> Boon on checks to hide and sneak</li>
+         <li><b class="mr-2">Duck</b><i>Minor</i> Automatically succed on an armor save, once per session</li>
       </ul>
 
       <h4>Arcane Bloodline</h4>
