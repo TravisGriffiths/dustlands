@@ -162,6 +162,60 @@
 
      </div>
 
+     <hr>
+
+     <h3>Rascal</h3>
+     A criminal, scoundral, thief or acrobat. 
+     <Stat label="Health" value="3 strikes" />
+     <Stat label="Armor" value="Light and quick on your feet - Roll 2d6, keep highest aginst 6 for both Armor and Miraculous saves" />
+     <Stat label="Boon" value="Acrobatic tasks" />
+
+     <div>
+      
+      <div class="my-2">
+         <i>Tricks</i> - Once per turn as a free action, you may avoid a singe <i>melee</i> strike, provided that attack did not roll a 6.
+      </div>
+
+      <div class="my-2">
+         <i>Gank</i> - If you surpise an opponent or they are engaged with another combatant, roll 2d6 to attack, each die can independently do a strike of damage.
+         If you normally would have a boon on the attack the dice are just the 2d6 independent attacks (you do not gain an additional die unless your attack would normally be a singe die)
+         Both of these dice can crit independently.
+      </div>
+
+     </div>
+
+     <hr>
+
+     <h3>Conjurer</h3>
+     A mage, sorcerer and master of the arcane 
+     <Stat label="Health" value="3 strikes" />
+     <Stat label="Armor" value="Light, saves on 6 for both Armor and miraculous checks" />
+     <Stat label="Boon" value="Arcane tasks" />
+
+     <div>
+
+      <div class="my-2">
+         <i>Barrier</i> - As an action, you can shield yourself with magic util it absorbs a hit or your fall unconcious.
+      </div>
+
+      <div class="my-2">
+         <i>Master of Magic</i> - Gain mastery in one <a href="#circles">circle of Sorcery</a>. 
+         This allows you to cast <a href="/system#spells">spells</a> themed to this circle. 
+      </div>
+
+      <div class="my-2">
+         <i>Seeker of Sorcery</i> - Can use <a href="/system#scrolls">scrolls</a>. Start with two random scrolls. 
+      </div>
+
+      <div class="my-2">
+         <i>Focus</i> - You have a magic focus, (wand, staff etc.) which can make magic attacks doing a single strike of damage. 
+         These attacks are unable to crit. You must choose the nature of these attacks at creation (bolts of fire, necrotic rot etc.). 
+         No matter the nature of the attack, these simple focus strikes will not have secondary effects, e.g. fire bolts will not start fires, but outright magic spells <i>can</i>.
+
+      </div>
+
+     </div>
+
    </section>
 
    <section id="bloodlines">
