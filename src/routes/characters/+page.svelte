@@ -67,36 +67,35 @@
       this role will have a boon, being able to roll another die, usually making the check for these tasks 2 dice rather than 
       the normal one. When either "Melee" or "Ranged" is listed, it is that weapon type, meaning that role is able to use an 
       extra die when rolling attacks with that type. 
-      <h4>Path Inclinations</h4>
-      These are the "powers" or abilities of the path. This is usually a list, but sometimes is a choice in a list. 
+      <h4>Path Abilities</h4>
+      These are the "powers" or abilities of the path.
 
-      <h3>Warrior</h3>
-      A professional fighter, soldier or man-at-arms 
+      <h3>Beastmaster</h3>
+      Animal friend
       <Stat label="Health" value="3 strikes" />
-      <Stat label="Armor" value="Heavy 3+ w/shield otherwise 4+" />
-      <Stat label="Boon" value="Strength and Melee" />
-
+      <Stat label="Armor" value="Medium, save 5+,  miraculous save 6" />
+      <Stat label="Boon" value="Melee OR Ranged and Animal tasks" />
+ 
       <div>
-         <h4>Inclinations</h4>
-
-         <div class="my-2">
-            <i>Shield Sacrifice</i> - Once per scene as a free action, you may choose to deflect all attack damage from yourself or a close ally 
-            for the entire round, but your shield is destroyed by this maneuver. You can activate this even after damage has been inflicted.
-            You may spend 5 karma to avoid destroying your shield. If your shield is destroyed, your Armor save becomes the normal shieldless 4+. 
-            A warrior must be using a shield to use this maneuver (naturally). 
-         </div>
-
-         <div class="my-2">
-            <i>Brutal Strikes</i> - As a master of two handed weapons, your strikes score critical hits on a 5 or 6. You cannot use a shield to use this, and must have a two handed weapon equiped.
-         </div>
-
-         <div class="my-2">
-            <i>Dual Weapons</i> - You are deadly when dual wielding weapons. Attack with an extra boon when using two weapons in this way, for a 3d6 on attacks.
-            To do this, you must have multiple one-handed weapons equipped. This means not using a shield or a larger weapon. 
-         </div>
+ 
+       <div class="my-2">
+          <i>Beastspeech</i> - You can speak to any animal. 
+       </div>
+ 
+       <div class="my-2">
+          <i>Beast Aid</i> - You can convince beasts to aid you for a limited time under the right circumstances. 
+       </div>
+ 
+       <div class="my-2">
+          <i>Beast Friend</i> - You start with a beast companion. It is your friend, not a slave. It will stay with you as long as it is well treated, protected and looked after. 
+          It may be any animal up to medium size, having 1 or 2 strikes. 
+       </div>
+ 
       </div>
-      
+
       <hr>
+
+     
 
       <h3>Warden</h3>
       A master of the wilderness, hunter, a survivor
@@ -268,28 +267,33 @@
 
      <hr>
 
-     <h3>Beastmaster</h3>
-     Animal friend
+     <h3>Warrior</h3>
+     A professional fighter, soldier or man-at-arms 
      <Stat label="Health" value="3 strikes" />
-     <Stat label="Armor" value="Medium, save 5+,  miraculous save 6" />
-     <Stat label="Boon" value="Melee OR Ranged and Animal tasks" />
+     <Stat label="Armor" value="Heavy 3+ w/shield otherwise 4+" />
+     <Stat label="Boon" value="Strength and Melee" />
 
      <div>
 
-      <div class="my-2">
-         <i>Beastspeech</i> - You can speak to any animal. 
-      </div>
+        <div class="my-2">
+           <i>Shield Sacrifice</i> - Once per scene as a free action, you may choose to deflect all attack damage from yourself or a close ally 
+           for the entire round, but your shield is destroyed by this maneuver. You can activate this even after damage has been inflicted.
+           You may spend 5 karma to avoid destroying your shield. If your shield is destroyed, your Armor save becomes the normal shieldless 4+. 
+           A warrior must be using a shield to use this maneuver (naturally). 
+        </div>
 
-      <div class="my-2">
-         <i>Beast Aid</i> - You can convince beasts to aid you for a limited time under the right circumstances. 
-      </div>
+        <div class="my-2">
+           <i>Brutal Strikes</i> - As a master of two handed weapons, your strikes score critical hits on a 5 or 6. You cannot use a shield to use this, and must have a two handed weapon equiped.
+        </div>
 
-      <div class="my-2">
-         <i>Beast Friend</i> - You start with a beast companion. It is your friend, not a slave. It will stay with you as long as it is well treated, protected and looked after. 
-         It may be any animal up to medium size, having 1 or 2 strikes. 
-      </div>
-
+        <div class="my-2">
+           <i>Dual Weapons</i> - You are deadly when dual wielding weapons. Attack with an extra boon when using two weapons in this way, for a 3d6 on attacks.
+           To do this, you must have multiple one-handed weapons equipped. This means not using a shield or a larger weapon. 
+        </div>
      </div>
+     
+     <hr>
+     
 
    </section>
 
