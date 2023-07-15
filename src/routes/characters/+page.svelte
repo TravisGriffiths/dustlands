@@ -95,33 +95,38 @@
 
       <hr>
 
-     
-
-      <h3>Warden</h3>
-      A master of the wilderness, hunter, a survivor
+      <h3>Conjurer</h3>
+      A mage, sorcerer and master of the arcane 
       <Stat label="Health" value="3 strikes" />
-      <Stat label="Armor" value="Medium (5+), Miraculous Save 6" />
-      <Stat label="Boon" value="Ranged Weapons and Wilderness Tasks" />
-
+      <Stat label="Armor" value="Light, saves on 6 for both Armor and miraculous checks" />
+      <Stat label="Boon" value="Arcane tasks" />
+ 
       <div>
-         <div class="my-2">
-            <i>Trailfinder</i> - You can track and find traces of passing creatures or individuals. 
-         </div>
-
-         <div class="my-2">
-            <i>Forager</i> - You can sustain yourself and others in the outdoors. Under most circumstanses, this is automatic, but in challenging conditions this might require rolls. 
-         </div>
-
-         <div class="my-2">
-            <i>Make Camp</i> - Given at least 3 hours in normal conditions, you can create a camp comfortable enough to count as a <a href="/system#sanctuaries">sanctuary</a>, allowing party members to recover hits while resting there. 
-         </div>
-
-         <div class="my-2">
-            <i>Survivalist</i> - Given nothing but sticks and stones, , and some time, can 
-         </div>
+ 
+       <div class="my-2">
+          <i>Barrier</i> - As an action, you can shield yourself with magic util it absorbs a hit or your fall unconcious.
+       </div>
+ 
+       <div class="my-2">
+          <i>Master of Magic</i> - Gain mastery in one <a href="#circles">circle of Sorcery</a>. 
+          This allows you to cast <a href="/system#spells">spells</a> themed to this circle. 
+       </div>
+ 
+       <div class="my-2">
+          <i>Seeker of Sorcery</i> - Can use <a href="/system#scrolls">scrolls</a>. Start with two random scrolls. 
+       </div>
+ 
+       <div class="my-2">
+          <i>Focus</i> - You have a magic focus, (wand, staff etc.) which can make magic attacks doing a single strike of damage. 
+          These attacks are unable to crit. You must choose the nature of these attacks at creation (bolts of fire, necrotic rot etc.). 
+          No matter the nature of the attack, these simple focus strikes will not have secondary effects, e.g. fire bolts will not start fires, but outright magic spells <i>can</i>.
+       </div>
+ 
       </div>
-
+ 
       <hr>
+
+     
 
       <h3>Delver</h3>
       A master of the deep and dark, a tomb raider
@@ -183,37 +188,7 @@
 
      </div>
 
-     <hr>
-
-     <h3>Conjurer</h3>
-     A mage, sorcerer and master of the arcane 
-     <Stat label="Health" value="3 strikes" />
-     <Stat label="Armor" value="Light, saves on 6 for both Armor and miraculous checks" />
-     <Stat label="Boon" value="Arcane tasks" />
-
-     <div>
-
-      <div class="my-2">
-         <i>Barrier</i> - As an action, you can shield yourself with magic util it absorbs a hit or your fall unconcious.
-      </div>
-
-      <div class="my-2">
-         <i>Master of Magic</i> - Gain mastery in one <a href="#circles">circle of Sorcery</a>. 
-         This allows you to cast <a href="/system#spells">spells</a> themed to this circle. 
-      </div>
-
-      <div class="my-2">
-         <i>Seeker of Sorcery</i> - Can use <a href="/system#scrolls">scrolls</a>. Start with two random scrolls. 
-      </div>
-
-      <div class="my-2">
-         <i>Focus</i> - You have a magic focus, (wand, staff etc.) which can make magic attacks doing a single strike of damage. 
-         These attacks are unable to crit. You must choose the nature of these attacks at creation (bolts of fire, necrotic rot etc.). 
-         No matter the nature of the attack, these simple focus strikes will not have secondary effects, e.g. fire bolts will not start fires, but outright magic spells <i>can</i>.
-      </div>
-
-     </div>
-
+     
      <hr>
 
      <h3>Friar</h3>
@@ -263,6 +238,32 @@
 
       </div>
 
+     </div>
+
+     <hr>
+
+     <h3>Warden</h3>
+     A master of the wilderness, hunter, a survivor
+     <Stat label="Health" value="3 strikes" />
+     <Stat label="Armor" value="Medium (5+), Miraculous Save 6" />
+     <Stat label="Boon" value="Ranged Weapons and Wilderness Tasks" />
+
+     <div>
+        <div class="my-2">
+           <i>Trailfinder</i> - You can track and find traces of passing creatures or individuals. 
+        </div>
+
+        <div class="my-2">
+           <i>Forager</i> - You can sustain yourself and others in the outdoors. Under most circumstanses, this is automatic, but in challenging conditions this might require rolls. 
+        </div>
+
+        <div class="my-2">
+           <i>Make Camp</i> - Given at least 3 hours in normal conditions, you can create a camp comfortable enough to count as a <a href="/system#sanctuaries">sanctuary</a>, allowing party members to recover hits while resting there. 
+        </div>
+
+        <div class="my-2">
+           <i>Survivalist</i> - Given nothing but sticks and stones, , and some time, can 
+        </div>
      </div>
 
      <hr>
