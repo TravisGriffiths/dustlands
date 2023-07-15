@@ -101,17 +101,17 @@
       <Stat label="Armor" value="Light (5+), Miraculous Save 6" />
       <Stat label="Boon" value="Melee and Strength tasks" />
 
-     <div>
+      <div>
 
-         <div class="my-2">
-            <i>Enrage</i> - You can sacrifice one of your strikes to inflict an extra strike on a hit. 
-         </div>
+            <div class="my-2">
+               <i>Enrage</i> - You can sacrifice one of your strikes to inflict an extra strike on a hit. 
+            </div>
 
-         <div class="my-2">
-            <i>Superstitious</i> - You have a boon to resist magic you do not wish to affect you. 
-         </div>
+            <div class="my-2">
+               <i>Superstitious</i> - You have a boon to resist magic you do not wish to affect you. 
+            </div>
 
-     </div>
+      </div>
 
       <hr>
 
@@ -146,8 +146,6 @@
  
       <hr>
 
-     
-
       <h3>Delver</h3>
       A master of the deep and dark, a tomb raider
       <Stat label="Health" value="3 strikes" />
@@ -166,32 +164,7 @@
 
       </div>
 
-      
-
-     <hr>
-
-     <h3>Rascal</h3>
-     A criminal, scoundral, thief or acrobat. 
-     <Stat label="Health" value="3 strikes" />
-     <Stat label="Armor" value="Light and quick on your feet - Roll 2d6, keep highest aginst 6 for both Armor and Miraculous saves" />
-     <Stat label="Boon" value="Acrobatic tasks" />
-
-     <div>
-      
-      <div class="my-2">
-         <i>Tricks</i> - Once per turn as a free action, you may avoid a singe <i>melee</i> strike, provided that attack did not roll a 6.
-      </div>
-
-      <div class="my-2">
-         <i>Gank</i> - If you surpise an opponent or they are engaged with another combatant, roll 2d6 to attack, each die can independently do a strike of damage.
-         If you normally would have a boon on the attack the dice are just the 2d6 independent attacks (you do not gain an additional die unless your attack would normally be a singe die)
-         Both of these dice can crit independently.
-      </div>
-
-     </div>
-
-     
-     <hr>
+      <hr>
 
      <h3>Friar</h3>
      A shaman, holy man, priest or charlatan
@@ -211,6 +184,28 @@
          No ally may be affected by more than a single strike of healing. 
          For damaging enemies, roll the same pool equal to the number of enemies, each 4+ allows you to inflict a single strike. Undead and deamons take 2 strikes for each of these. 
          You can regain this abilty by spending 5 karma. In addition, unlike other miraculous or magical effects, you may spend karma on these rolls. 
+      </div>
+
+     </div>
+
+     <hr>
+
+     <h3>Rascal</h3>
+     A criminal, scoundral, thief or acrobat. 
+     <Stat label="Health" value="3 strikes" />
+     <Stat label="Armor" value="Light and quick on your feet - Roll 2d6, keep highest aginst 6 for both Armor and Miraculous saves" />
+     <Stat label="Boon" value="Acrobatic tasks" />
+
+     <div>
+      
+      <div class="my-2">
+         <i>Tricks</i> - Once per turn as a free action, you may avoid a singe <i>melee</i> strike, provided that attack did not roll a 6.
+      </div>
+
+      <div class="my-2">
+         <i>Gank</i> - If you surpise an opponent or they are engaged with another combatant, roll 2d6 to attack, each die can independently do a strike of damage.
+         If you normally would have a boon on the attack the dice are just the 2d6 independent attacks (you do not gain an additional die unless your attack would normally be a singe die)
+         Both of these dice can crit independently.
       </div>
 
      </div>
