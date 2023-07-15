@@ -239,6 +239,33 @@
 
      </div>
 
+     <hr>
+
+     <h3>Skald</h3>
+     A lore master, historian, academic or entertainer
+     <Stat label="Health" value="3 strikes" />
+     <Stat label="Armor" value="Medium, save 5+, Prognostication, miraculous save 5+" />
+     <Stat label="Boon" value="Lore and Performance tasks" />
+
+     <div>
+
+      <div class="my-2">
+         <i>Scroll Master</i> - You are able to cast magic from scrolls. Start with 2 random scrolls. 
+      </div>
+
+      <div class="my-2">
+         <i>Traveler</i> - On your travels and studies you have managed to hone a skill, like Melee, Acrobatics, Diplomacy, Observation. 
+         Select a skill to gain a boon in. 
+      </div>
+
+      <div class="my-2">
+         <i>Strands of Fate</i> - As a student of the Weave of Fate, you are able to manipulate Fortune.
+         Allies, within near range, may spend karma against the GM, subtracting a pip per karma point on thier rolls as desired. 
+
+      </div>
+
+     </div>
+
    </section>
 
    <section id="bloodlines">
