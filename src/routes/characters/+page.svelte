@@ -344,6 +344,7 @@
          <li><b class="mr-2">Affluent</b><i>Minor</i> Start with 2 healing potions or an extra random scroll</li>
          <li><b class="mr-2">Aquatic Bloodline</b><i>Minor</i> Boon to swimming and similar checks in water</li>
          <li><b class="mr-2">Martial Training</b><i>Minor</i> Take a bonus action on your turn once per session</li>
+         <li><b class="mr-2">Family Connections</b><i>Minor</i> Once per session can arrange an introduction or assistance from family connections while in town.</li>
       </ul>
       
 
