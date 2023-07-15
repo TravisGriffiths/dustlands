@@ -1,6 +1,5 @@
 <script>
    import Stat from "$lib/components/Stat.svelte";
-	import { i } from "vitest/dist/index-5aad25c1";
 </script>
 
 <article>
