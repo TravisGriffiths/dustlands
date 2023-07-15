@@ -88,6 +88,11 @@
          <div class="my-2">
             <i>Brutal Strikes</i> - As a master of two handed weapons, your strikes score critical hits on a 5 or 6. You cannot use a shield to use this, and must have a two handed weapon equiped.
          </div>
+
+         <div class="my-2">
+            <i>Dual Weapons</i> - You are deadly when dual wielding weapons. Attack with an extra boon when using two weapons in this way, for a 3d6 on attacks.
+            To do this, you must have multiple one-handed weapons equipped. This means not using a shield or a larger weapon. 
+         </div>
       </div>
       
 
