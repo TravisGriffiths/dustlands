@@ -1,5 +1,6 @@
 <script>
    import Stat from "$lib/components/Stat.svelte";
+	import { i } from "vitest/dist/index-5aad25c1";
 </script>
 
 <article>
@@ -115,7 +116,33 @@
          <div class="my-2">
             <i>Make Camp</i> - Given at least 3 hours in normal conditions, you can create a camp comfortable enough to count as a <a href="/system#sanctuaries">sanctuary</a>, allowing party members to recover hits while resting there. 
          </div>
+
+         <div class="my-2">
+            <i>Survivalist</i> - Given nothing but sticks and stones, , and some time, can 
+         </div>
       </div>
+
+      <hr>
+
+      <h3>Delver</h3>
+      A master of the deep and dark, a tomb raider
+      <Stat label="Health" value="3 strikes" />
+      <Stat label="Armor" value="Medium (5+), Miraculous Save 6" />
+      <Stat label="Boon" value="Melee OR Ranged Weapons and spelunking/subterrainean exploration tasks" />
+
+      <div>
+
+         <div class="my-2">
+            <i>Gear</i> - Always ready to explore, you have a climbing kit, with pitons, 50' rope, torches, a small hammer and some chalk. 
+         </div>
+
+         <div class="my-2">
+            <i>Jack</i> - Pick a bonus inclination in addition to the normal selections and any bonus for your bloodline. 
+         </div>
+
+      </div>
+
+     
 
    </section>
 
