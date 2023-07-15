@@ -266,6 +266,31 @@
 
      </div>
 
+     <hr>
+
+     <h3>Beastmaster</h3>
+     Animal friend
+     <Stat label="Health" value="3 strikes" />
+     <Stat label="Armor" value="Medium, save 5+,  miraculous save 6" />
+     <Stat label="Boon" value="Melee OR Ranged and Animal tasks" />
+
+     <div>
+
+      <div class="my-2">
+         <i>Beastspeech</i> - You can speak to any animal. 
+      </div>
+
+      <div class="my-2">
+         <i>Beast Aid</i> - You can convince beasts to aid you for a limited time under the right circumstances. 
+      </div>
+
+      <div class="my-2">
+         <i>Beast Friend</i> - You start with a beast companion. It is your friend, not a slave. It will stay with you as long as it is well treated, protected and looked after. 
+         It may be any animal up to medium size, having 1 or 2 strikes. 
+      </div>
+
+     </div>
+
    </section>
 
    <section id="bloodlines">
