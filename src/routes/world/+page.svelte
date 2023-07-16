@@ -9,10 +9,22 @@
 
 
       <h2>The Poles</h2>
-      The poles today are sufficiently cool to allow moisture left in the air to rain on the few grasslands left, from which a few great cities of the world today nourish their populations and economies. The seven great cities of the north each have a water source that supports them, and are surrounded by unusually verdant grasslands or biomes that support herds of animals on which the urban populations depend. Some even have what would be recognized as traditional agriculture.
+      The poles today are sufficiently cool to allow moisture left in the air to rain on the few grasslands left, from which a few great cities of the world today nourish their populations and economies. The seven great cities of the north each have a water source that supports them, and are surrounded by unusually verdant grasslands or biomes that support herds of animals on which the urban populations depend. Some even have what would be recognized as traditional agriculture. The area of the campaign is all around the South Pole. 
       
       <h3>Cosmology</h3>
       At the poles days are called Turns. This is because it is one revolution of Grabin...a day, but being a polar zone, this does not correspond to day and night. Grabin orbits its sun every twelve days. This causes the light and dark cycle break down into four turns of "Night" which are fully dark as the pole is inclined away from the sun. There are four turns of "Day" when the inclination is towards the sun during which temperatures get progressively hotter, becoming unbearable by the end. Between these are "Waning" and "Waxing" which are four turns of shortening and lengthening of the daylight period. Night is never full darkness like here. First there is the Moon, which is very close, very large and moves very quickly across the sky, making 3 full orbits per turn. In addition, Tersus, the night star hangs shining in the night sky, moving around once per turn and giving off a wan white light.
+
+      <h2>The Great Cities</h2>
+      The largest and most powerful political entities in the South are known as The Great Cities. These are the few places where significant populations, water and food supply has allowed something like a traditional nation states to arise controlling the territory around them for some distance. While these are the largest enties,, they are not the only ones, with many smaller settlements making up baronies and independant small city states. Most people however live in small fortified rural communities and nomadic tribes that sparsely populate the barrens of the South. The Great cities are:
+      <ul>
+         <li><b class="mr-2">Gauldaur</b> <i>City of Water, The Canyon Citadel</i> 
+            <div>
+               Gauldaur is built where an ancient river eroded a thin and deep gash cutting through a high plateau to the valley floor below. Two linked fortresses have been built on both sides of this canyon and the land around quarried out to make an immense dry moat. Meanwhile the magic of the Water Lords fills the depths of the canyons with some of the best source renewable water still found in the Dustlands. The rock quarried out from around the canyon has been turned into both a massive dam at the mouth of the canyon and a truly impressive collection of buildings on the canyon walls.
+               The lands surrounding Gauldaur are relatively wet, supporting some of the greenest stands of trees, orchards and grasslands extending many miles from the city itself. The crest of the city is a blue field with the twin fortresses in black upon it.
+               Gauldurian culture centers around religion and stands out for excellent social mobility. Marriage is monogamous and inheritence is uniquely by ultimogeniture, inheritence of all property by the youngest. 
+            </div>
+         </li>
+      </ul>
 
    </section>
 
