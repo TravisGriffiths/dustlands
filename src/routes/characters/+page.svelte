@@ -396,6 +396,10 @@
       </div>
 
       <div>
+         <b>Crafter</b> - Choose a craft. Given sufficient time, you may create products of this craft. You will also be able to make contacts and negotiate with craftspeople of this craft with a boon. 
+      </div>
+
+      <div>
          <b>Divine Spark</b> - You are touched by the divine, and are able to inflict greater damage on both Demons and the Undead when making melee attacks. Rolling a 6 on attacks against these creatures, you automatically inflict a second strike and continue to roll the critical.
       </div>
 
@@ -403,11 +407,10 @@
          <b>Doctor</b> - You can heal allies 1 Strike between scenes in narative time. Start with a healing kit with 6 uses. 
       </div>
 
+ 
       <div>
-         <b>Crafter</b> - Choose a craft. Given sufficient time, you may create products of this craft. You will also be able to make contacts and negotiate with craftspeople of this craft with a boon. 
+         <b>Diplomat</b> - You are a master of the negotiated solution, and brimming with raw charisma. Boon to all social checks. 
       </div>
-
-      
 
    </section>
 </article>
