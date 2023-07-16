@@ -378,5 +378,13 @@
       <div>
          <b>Alchemist</b> - You have trained under a master, or in the Guild of Alchemists and learned the art fo making potions. You have a boon to identifing substances. Start with two free healing potions or one random potion. 
       </div>
+
+      <div>
+         <b>Attuned</b> - You can blind fight and escape areas of obscured vision that can befuddle the direction of others.
+      </div>
+
+      <div>
+         <b>Divine Spark</b> - You are touched by the divine, and are able to inflict greater damage on both Demons and the Undead when making melee attacks. Rolling a 6 on attacks against these creatures, you automatically inflict a second strike and continue to roll the critical.
+      </div>
    </section>
 </article>
