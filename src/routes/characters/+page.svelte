@@ -380,6 +380,10 @@
       </div>
 
       <div>
+         <b>Arcane Scholar</b> - You have no sorcery yourself, but have been trained in or otherwise learned to cast spells from scrolls. Start with 2 random scrolls.
+      </div>
+
+      <div>
          <b>Attuned</b> - You can blind fight and escape areas of obscured vision that can befuddle the direction of others.
       </div>
 
@@ -422,7 +426,6 @@
       <div>
          <b>Doctor</b> - You can heal allies 1 Strike between scenes in narative time. Start with a healing kit with 6 uses. 
       </div>
-
  
      <div>
          <b>Faithful</b> - Deamons and Undead can only hit you on a 5+
@@ -443,10 +446,6 @@
       </div>
 
       <div>
-         <b>Hedge Wizard</b> - You have no sorcery yourself, but have been trained in or otherwise learned to cast spells from scrolls. Start with 2 random scrolls.
-      </div>
-
-      <div>
          <b>Insipiring</b> - You can share your karma points with anyone you can see. 
       </div>
 
@@ -463,7 +462,7 @@
       </div>
 
       <div>
-         <b></b>
+         <b>Slippery</b>
       </div>
 
    </section>
