@@ -401,7 +401,7 @@
 
 
       <div>
-         <b>Danger Sense</b> - You are a pious follower of a <a href="/world#dieties">diety</a>. As one of True Faith, you may call on your dietiy for <a href="/system#spells">Miracles</a>. While you may call for miracles, the gods are fickle.
+         <b>Danger Sense</b> - You cannot be surprised and have a boon to avoid traps.
       </div>
       
       <div>
@@ -410,6 +410,10 @@
 
       <div>
          <b>Divine Spark</b> - You are touched by the divine, and are able to inflict greater damage on both Demons and the Undead when making melee attacks. Rolling a 6 on attacks against these creatures, you automatically inflict a second strike and continue to roll the critical.
+      </div>
+
+      <div>
+         <b>Devout</b> - You are a pious follower of a <a href="/world#dieties">diety</a>. As one of True Faith, you may call on your dietiy for <a href="/system#spells">Miracles</a>. While you may call for miracles, the gods are fickle.
       </div>
 
       <div>
