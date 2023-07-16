@@ -539,6 +539,10 @@
 
    <section>
       <h2>Circles of Sorcery</h2>
+
+
+      <h3>Binding</h3>
+      Binding is the Circle of capture and linking. They are no a large or rich school. They are very useful when dealing with Demons, or very large monsters. 
    </section>
 
    <section>
