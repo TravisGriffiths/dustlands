@@ -399,6 +399,15 @@
          <b>Crafter</b> - Choose a craft. Given sufficient time, you may create products of this craft. You will also be able to make contacts and negotiate with craftspeople of this craft with a boon. 
       </div>
 
+
+      <div>
+         <b>Danger Sense</b> - You are a pious follower of a <a href="/world#dieties">diety</a>. As one of True Faith, you may call on your dietiy for <a href="/system#spells">Miracles</a>. While you may call for miracles, the gods are fickle.
+      </div>
+      
+      <div>
+         <b>Diplomat</b> - You are a master of the negotiated solution, and brimming with raw charisma. Boon to all social checks. 
+      </div>
+
       <div>
          <b>Divine Spark</b> - You are touched by the divine, and are able to inflict greater damage on both Demons and the Undead when making melee attacks. Rolling a 6 on attacks against these creatures, you automatically inflict a second strike and continue to roll the critical.
       </div>
@@ -408,13 +417,12 @@
       </div>
 
  
-      <div>
-         <b>Diplomat</b> - You are a master of the negotiated solution, and brimming with raw charisma. Boon to all social checks. 
-      </div>
+     
+
+   
 
       <div>
-         <b>Danger Sense</b> - You are a pious follower of a <a href="/world#dieties">diety</a>. As one of True Faith, you may call on your dietiy for <a href="/system#spells">Miracles</a>. While you may call for miracles, the gods are fickle.
-      </div>
 
+      </div>
    </section>
 </article>
