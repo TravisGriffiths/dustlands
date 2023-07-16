@@ -435,7 +435,7 @@
      </div>
 
       <div>
-
+         <b>Fighter</b> - You have a boon in Melee weapons. You cannot "double" train, so characters already having a boon in Melee cannot benefit from this inclination.
       </div>
    </section>
 </article>
