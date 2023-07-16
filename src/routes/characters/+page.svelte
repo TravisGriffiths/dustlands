@@ -394,5 +394,9 @@
       <div>
          <b>Catlike</b> - Can only ever be knoocked prone if hit by a critical and have a 4+ miraculous save against falls.
       </div>
+
+      <div>
+         <b>Checkmate</b> - You can intercept foes bore they reach targets near you. If an enemy attempts to retreat or move away from you, you can take a free attack (free action). A successful attack prevents the move. 
+      </div>
    </section>
 </article>
