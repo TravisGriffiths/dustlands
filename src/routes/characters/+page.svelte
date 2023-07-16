@@ -425,7 +425,11 @@
          <b>Faithful</b> - Deamons and Undead can only hit you on a 5+
      </div>
 
-   
+     <div>
+         <b>Familiar</b> - You have a small flying demonic servant that will obey simple commands. You grow a teat somewhere on your body
+         that the creature suckles a small quantity of blood every night.
+         Those of holy disposition will never bond one of these creatures, and there will be social consequences to being known to have a Familar. That being said, they are very useful, and fairly common.
+     </div>
 
       <div>
 
