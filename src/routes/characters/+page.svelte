@@ -421,7 +421,9 @@
       </div>
 
  
-     
+     <div>
+         <b>Faithful</b> - Deamons and Undead can only hit you on a 5+
+     </div>
 
    
 
