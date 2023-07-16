@@ -388,6 +388,10 @@
       </div>
 
       <div>
+         <b>Cantrips</b> - Not fully trained in Sorcery, but either from natural talent, or an abbriviated education, you are able to manifest basic spell effects. This is usually things like moving small near objects slowly, creating light in your hand, or producing minor illusions. These must be anchored to continue.
+      </div>
+
+      <div>
          <b>Catlike</b> - Can only ever be knoocked prone if hit by a critical and have a 4+ miraculous save against falls.
       </div>
 
@@ -452,6 +456,14 @@
 
       <div>
          <b>Lockpicking</b> - Provided tools and time, you will always be able to pick a lock, or disarm a mechanical trap. Roll 1d6 to see how long it takes (lower takes longer, 1 breaks your tools). Start with a set of 3 lockpicks. 
+      </div>
+
+      <div>
+         <b>Marksman</b> - You have a boon in ranged weapons. You cannot be double trained, so characters already having a boon in Ranged cannot benefit from this boon. 
+      </div>
+
+      <div>
+         <b></b>
       </div>
 
    </section>
