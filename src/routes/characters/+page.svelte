@@ -402,5 +402,12 @@
       <div>
          <b>Doctor</b> - You can heal allies 1 Strike between scenes in narative time. Start with a healing kit with 6 uses. 
       </div>
+
+      <div>
+         <b>Crafter</b> - Choose a craft. Given sufficient time, you may create products of this craft. You will also be able to make contacts and negotiate with craftspeople of this craft with a boon. 
+      </div>
+
+      
+
    </section>
 </article>
