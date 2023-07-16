@@ -437,5 +437,12 @@
       <div>
          <b>Fighter</b> - You have a boon in Melee weapons. You cannot "double" train, so characters already having a boon in Melee cannot benefit from this inclination.
       </div>
+
+      <div>
+         <b>Hedge Wizard</b> - You have no sorcery yourself, but have been trained in or otherwise learned to cast spells from scrolls. Start with 2 random scrolls.
+      </div>
+
+      
+
    </section>
 </article>
