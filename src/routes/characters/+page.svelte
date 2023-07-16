@@ -264,31 +264,43 @@
 
      <hr>
 
-     <h3>Warrior</h3>
-     A professional fighter, soldier or man-at-arms 
-     <Stat label="Health" value="3 strikes" />
-     <Stat label="Armor" value="Heavy 3+ w/shield otherwise 4+" />
-     <Stat label="Boon" value="Strength and Melee" />
+     <div class=" grid grid-cols-3 gap-2">
 
-     <div>
-
-        <div class="my-2">
-           <i>Shield Sacrifice</i> - Once per scene as a free action, you may choose to deflect all attack damage from yourself or a close ally 
-           for the entire round, but your shield is destroyed by this maneuver. You can activate this even after damage has been inflicted.
-           You may spend 5 karma to avoid destroying your shield. If your shield is destroyed, your Armor save becomes the normal shieldless 4+. 
-           A warrior must be using a shield to use this maneuver (naturally). 
-        </div>
-
-        <div class="my-2">
-           <i>Brutal Strikes</i> - As a master of two handed weapons, your strikes score critical hits on a 5 or 6. You cannot use a shield to use this, and must have a two handed weapon equiped.
-        </div>
-
-        <div class="my-2">
-           <i>Dual Weapons</i> - You are deadly when dual wielding weapons. Attack with an extra boon when using two weapons in this way, for a 3d6 on attacks.
-           To do this, you must have multiple one-handed weapons equipped. This means not using a shield or a larger weapon. 
-        </div>
-     </div>
      
+      <div class="p-2">
+         <img src="/imgs/warrior.png" alt="warrior" class="object-cover" >
+      </div>
+    
+
+     <div class="col-span-2">
+
+         
+         <h3>Warrior</h3>
+         A professional fighter, soldier or man-at-arms 
+         <Stat label="Health" value="3 strikes" />
+         <Stat label="Armor" value="Heavy 3+ w/shield otherwise 4+" />
+         <Stat label="Boon" value="Strength and Melee" />
+
+         <div>
+
+            <div class="my-2">
+               <i>Shield Sacrifice</i> - Once per scene as a free action, you may choose to deflect all attack damage from yourself or a close ally 
+               for the entire round, but your shield is destroyed by this maneuver. You can activate this even after damage has been inflicted.
+               You may spend 5 karma to avoid destroying your shield. If your shield is destroyed, your Armor save becomes the normal shieldless 4+. 
+               A warrior must be using a shield to use this maneuver (naturally). 
+            </div>
+
+            <div class="my-2">
+               <i>Brutal Strikes</i> - As a master of two handed weapons, your strikes score critical hits on a 5 or 6. You cannot use a shield to use this, and must have a two handed weapon equiped.
+            </div>
+
+            <div class="my-2">
+               <i>Dual Weapons</i> - You are deadly when dual wielding weapons. Attack with an extra boon when using two weapons in this way, for a 3d6 on attacks.
+               To do this, you must have multiple one-handed weapons equipped. This means not using a shield or a larger weapon. 
+            </div>
+         </div>
+      </div>
+      </div>
      <hr>
      
 
