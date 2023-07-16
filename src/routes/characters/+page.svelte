@@ -386,5 +386,13 @@
       <div>
          <b>Divine Spark</b> - You are touched by the divine, and are able to inflict greater damage on both Demons and the Undead when making melee attacks. Rolling a 6 on attacks against these creatures, you automatically inflict a second strike and continue to roll the critical.
       </div>
+
+      <div>
+         <b>Born Blessed</b> - You start each session with 6 karma instead of the usual 3.
+      </div>
+
+      <div>
+         <b>Catlike</b> - Can only ever be knoocked prone if hit by a critical and have a 4+ miraculous save against falls.
+      </div>
    </section>
 </article>
