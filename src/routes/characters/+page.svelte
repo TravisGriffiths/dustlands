@@ -491,12 +491,18 @@
       </div>
 
       <div>
-         <b>Treasure Sense</b> - You ahve a nose for finding hidden treasure and will always sense if it is nearby.
+         <b>Treasure Sense</b> - You have a nose for finding hidden treasure and will always sense if it is nearby.
       </div>
 
       <div>
-         <b></b>
+         <b>Victory in Failure</b> - Once per scene, when rolling a failure, you earn 2 karma rather than the normal one. 
       </div>
 
+   </section>
+
+   <section>
+      <h2>Aspects</h2>
+
+      Aspects are minor details about a characters personality or past. 
    </section>
 </article>
