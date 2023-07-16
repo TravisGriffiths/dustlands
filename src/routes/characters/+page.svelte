@@ -371,7 +371,7 @@
       
    </section>
 
-   <section id="inclinations">
+   <section id="inclinations" class="flex gap-2 flex-col">
       <h2>Inclinations</h2>
       These are the specific training and talents that differentiate characters from on another. 
 
@@ -396,9 +396,8 @@
       </div>
 
       <div>
-         <b>Crafter</b> - Choose a craft. Given sufficient time, you may create products of this craft. You will also be able to make contacts and negotiate with craftspeople of this craft with a boon. 
+         <b>Crafter</b> - Choose a craft. Given sufficient time, you may create products of this craft. Identifing, and evaluating examples of this craft, as well as the ingredients and imputs to this craft have a boon. You will also be able to make contacts and negotiate with craftspeople of this craft with a boon. 
       </div>
-
 
       <div>
          <b>Danger Sense</b> - You cannot be surprised and have a boon to avoid traps.
@@ -429,6 +428,10 @@
          <b>Familiar</b> - You have a small flying demonic servant that will obey simple commands. You grow a teat somewhere on your body
          that the creature suckles a small quantity of blood every night.
          Those of holy disposition will never bond one of these creatures, and there will be social consequences to being known to have a Familar. That being said, they are very useful, and fairly common.
+     </div>
+
+     <div>
+         <b>Fate Touched</b> - You start with 2 hero dice. 
      </div>
 
       <div>
