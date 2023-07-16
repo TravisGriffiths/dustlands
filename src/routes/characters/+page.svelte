@@ -446,5 +446,13 @@
          <b>Insipiring</b> - You can share your karma points with anyone you can see. 
       </div>
 
+      <div>
+         <b>Iron Will</b> - You have a boon under mental attack or aginst fear. 
+      </div>
+
+      <div>
+         <b>Lockpicking</b> - Provided tools and time, you will always be able to pick a lock, or disarm a mechanical trap. Roll 1d6 to see how long it takes (lower takes longer, 1 breaks your tools). Start with a set of 3 lockpicks. 
+      </div>
+
    </section>
 </article>
