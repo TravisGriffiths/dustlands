@@ -238,30 +238,40 @@
 
      <hr>
 
-     <h3>Warden</h3>
-     A master of the wilderness, hunter, a survivor
-     <Stat label="Health" value="3 strikes" />
-     <Stat label="Armor" value="Medium (5+), Miraculous Save 6" />
-     <Stat label="Boon" value="Ranged Weapons and Wilderness Tasks" />
+     <div class=" grid grid-cols-3 gap-2">
 
-     <div>
-        <div class="my-2">
-           <i>Trailfinder</i> - You can track and find traces of passing creatures or individuals. 
-        </div>
+    
+         <div class="col-span-2">
+            <h3>Warden</h3>
+            A master of the wilderness, hunter, a survivor
+            <Stat label="Health" value="3 strikes" />
+            <Stat label="Armor" value="Medium (5+), Miraculous Save 6" />
+            <Stat label="Boon" value="Ranged Weapons and Wilderness Tasks" />
 
-        <div class="my-2">
-           <i>Forager</i> - You can sustain yourself and others in the outdoors. Under most circumstanses, this is automatic, but in challenging conditions this might require rolls. 
-        </div>
+            <div>
+               <div class="my-2">
+                  <i>Trailfinder</i> - You can track and find traces of passing creatures or individuals. 
+               </div>
 
-        <div class="my-2">
-           <i>Make Camp</i> - Given at least 3 hours in normal conditions, you can create a camp comfortable enough to count as a <a href="/system#sanctuaries">sanctuary</a>, allowing party members to recover hits while resting there. 
-        </div>
+               <div class="my-2">
+                  <i>Forager</i> - You can sustain yourself and others in the outdoors. Under most circumstanses, this is automatic, but in challenging conditions this might require rolls. 
+               </div>
 
-        <div class="my-2">
-           <i>Survivalist</i> - Given nothing but sticks and stones, bones and leather, and some time, can create simple tools, weapons and light armor. 
-        </div>
-     </div>
+               <div class="my-2">
+                  <i>Make Camp</i> - Given at least 3 hours in normal conditions, you can create a camp comfortable enough to count as a <a href="/system#sanctuaries">sanctuary</a>, allowing party members to recover hits while resting there. 
+               </div>
 
+               <div class="my-2">
+                  <i>Survivalist</i> - Given nothing but sticks and stones, bones and leather, and some time, can create simple tools, weapons and light armor. 
+               </div>
+            </div>
+         </div>
+
+         <div class="p-2">
+            <img src="/imgs/warden.jpg" alt="Warden" class="object-cover">
+         </div>
+
+      </div>
      <hr>
 
      <div class=" grid grid-cols-3 gap-2">
@@ -273,8 +283,6 @@
     
 
      <div class="col-span-2">
-
-         
          <h3>Warrior</h3>
          A professional fighter, soldier or man-at-arms 
          <Stat label="Health" value="3 strikes" />
@@ -314,8 +322,8 @@
       As a result, everyone has mixed parantage, usually in a complex and unfathomable complexity going back over unrecorded centuries. 
       Heights and sizes range from nearly 3 feet to over 7 feet tall, with variations of pointed ears, facial hair and a vast range of skin tones. 
       Different individuals retain differnt advantages from this genetic diversity. These are divided into major and minor traits. 
-      A character may have a single major bloodline trait or 2 minor traits selected from those below. 
-      Selections must all come from a single bloodline choice, and the mixed bloodline, since many phenotypes are opposites (large and small size for example)
+      A character may have a single major bloodline trait or 2 minor traits selected from those below. These reflect the major traits showing through from your heritage.
+      Selections must all come from a single choice of bloodline group, and the mixed bloodline, since many phenotypes are opposites (large and small size for example)
 
       <h4>Robust Bloodline</h4>
       <ul>
@@ -357,6 +365,8 @@
          <li><b class="mr-2">Aquatic Bloodline</b><i>Minor</i> Boon to swimming and similar checks in water</li>
          <li><b class="mr-2">Martial Training</b><i>Minor</i> Take a bonus action on your turn once per session</li>
          <li><b class="mr-2">Family Connections</b><i>Minor</i> Once per session can arrange an introduction or assistance from family connections while in town.</li>
+         <li><b class="mr-2">Decendant of the Fittest</b><i>Minor</i> Boon on checks against survival in outdoor conditions.</li>
+         
       </ul>
       
 
