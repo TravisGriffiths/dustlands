@@ -369,6 +369,14 @@
          
       </ul>
       
+   </section>
 
+   <section id="inclinations">
+      <h2>Inclinations</h2>
+      These are the specific training and talents that differentiate characters from on another. 
+
+      <div>
+         <b>Alchemist</b> - You have trained under a master, or in the Guild of Alchemists and learned the art fo making potions. You have a boon to identifing substances. Start with two free healing potions or one random potion. 
+      </div>
    </section>
 </article>
