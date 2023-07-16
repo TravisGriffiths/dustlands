@@ -503,6 +503,29 @@
    <section>
       <h2>Aspects</h2>
 
-      Aspects are minor details about a characters personality or past. 
+      Choose one to three Aspects. Aspects are minor details about a characters personality or past. An Aspect should not repeat anything about your Path or Inclination, but should be characterizations to contrast with those. These build characterization, and both allow a player to roleplay into their aspects, earning them karma. The other reason for Aspects, if a situation that allows a player to play into a character's Aspects, they can earn a boon on those checks.
+      Aspects can be things like: 
+      <h4>Where You are From?</h4>
+      <ul>
+         <li>Grew up in a region, or environment.</li>
+         <li>Educated at or in an organization.</li>
+         <li>Had a formative experience.</li>
+      </ul>
+
+      <h4>What Are You Like?</h4>
+      <ul>
+         <li>What are you known/infamous for?</li>
+         <li>Do you have a particular fear?</li>
+         <li>Do you have a certain belief</li>
+         <li>Any unusual habits?</li>
+         <li>Any unusual traits?</li>
+      </ul>
+
+      <h4>What do you want?</h4>
+      <ul>
+         <li>Do you have a partiular goal?</li>
+         <li>Do you have a specific weakness or vice?</li>
+         <li>Do you have an enemy or a hated ideal?</li>
+      </ul>
    </section>
 </article>
