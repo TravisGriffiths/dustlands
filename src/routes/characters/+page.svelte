@@ -458,7 +458,7 @@
       </div>
 
       <div>
-         <b>Lockpicking</b> - Provided tools and time, you will always be able to pick a lock, or disarm a mechanical trap. Roll 1d6 to see how long it takes (lower takes longer, 1 breaks your tools). Start with a set of 3 lockpicks. 
+         <b>Lockpicking</b> -  
       </div>
 
       <div>
@@ -486,6 +486,17 @@
          <b>Tough Bastard</b> 0- When you would take you lst strike, roll a check on a single die. On a 4+ you do not take that strike. This does not stack with any other similar inclination.
       </div>
 
-      
+      <div>
+         <b>Thief</b> - You have a boon to both find, and disable traps, and will always be able to pick a locks given time and tools. For locks, roll 1d6 to see how long it takes (lower takes longer, 1 breaks your tools). Start with a set of 3 lockpicks.
+      </div>
+
+      <div>
+         <b>Treasure Sense</b> - You ahve a nose for finding hidden treasure and will always sense if it is nearby.
+      </div>
+
+      <div>
+         <b></b>
+      </div>
+
    </section>
 </article>
