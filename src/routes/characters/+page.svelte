@@ -542,13 +542,19 @@
    </section>
 
    <section>
-      <h2>Martial Styles</h2>
+      <h2 id="styles">Martial Styles</h2>
       Warriors do not learn to fight at the level that they do simply by making friends. They must be trained by a experienced fighters. This is one of the main seperators between most roles that can use weapons and the specific abilities of a Warrior. For this reason, warriors need to choose a source of this training, and also to choose at least one group they have been fighting to this point. 
 
       <h4>Martial Organizations</h4>
       These are common groups with enough resources and experience to train full warriors. When, and how your character was recruited, trained and relates to the martial group they learned from should be recorded.
       <ul>
          <li><b>Noble or Wealthy Trade Houses</b> - Any group of sufficient wealth and power will gain sufficient enemies to require that retinues of men at arms must be hired, trained and recruited </li>
+         <li><b>Religious Martial Order</b> - Religions, Gods and Temples have goals, agendas and enemies, and so also have martial organizations. The most common are the Templars that are literally the devout guards of the physical temples.</li>
+         <li><b>Tribes</b> - The world is a dangrous place. Any group of any size will have a small, dedicated cadre of individuals dedicated to protecting and defending the group. Many also take part in the persecution of conflicts against competing groups. The nature of these conflicts will depend on the group.</li>
+         <li><b>Magic Circles</b> - The schools of magic are a special type of wealthy/powerful group that is able to use magic to help with its defense. It is often more efficient and desirable to be able to defend, or advance the goals of, the Circle without using magic directly. For this reason, almost all magic circles maintain martial orders of some size.</li>
+         <li><b>Great Cities</b> - The few large cities have significant numbers of men at arms that defend them against threats. These are a bit different than serving a House directly in that these are political organizations large enough to allow the idea of serving the City, Kingdom or Society at large as opposed to the House leader directly to be possible.</li>
+         <li><b>Raiders</b> - Bandits, criminals, and other criminal elements of all kinds maintain groups of truly skilled fighters to both protect themselves, and opress others.</li>
+         <li><b>Mercenaries</b> - Many groups only require defense part time, giving rise to the market for mercenaries. This takes many forms. Some entire tribes take the form of a unitied mercenary company with all tribal members working for what is effectively a company. Others are explicit mercenary companies for hire in wars or even just as simple caravan guards. </li>
       </ul>
 
    </section>
