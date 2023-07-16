@@ -412,5 +412,9 @@
          <b>Diplomat</b> - You are a master of the negotiated solution, and brimming with raw charisma. Boon to all social checks. 
       </div>
 
+      <div>
+         <b>Danger Sense</b> - You are a pious follower of a <a href="/world#dieties">diety</a>. As one of True Faith, you may call on your dietiy for <a href="/system#spells">Miracles</a>. While you may call for miracles, the gods are fickle.
+      </div>
+
    </section>
 </article>
