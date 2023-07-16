@@ -384,10 +384,6 @@
       </div>
 
       <div>
-         <b>Divine Spark</b> - You are touched by the divine, and are able to inflict greater damage on both Demons and the Undead when making melee attacks. Rolling a 6 on attacks against these creatures, you automatically inflict a second strike and continue to roll the critical.
-      </div>
-
-      <div>
          <b>Born Blessed</b> - You start each session with 6 karma instead of the usual 3.
       </div>
 
@@ -397,6 +393,14 @@
 
       <div>
          <b>Checkmate</b> - You can intercept foes bore they reach targets near you. If an enemy attempts to retreat or move away from you, you can take a free attack (free action). A successful attack prevents the move. 
+      </div>
+
+      <div>
+         <b>Divine Spark</b> - You are touched by the divine, and are able to inflict greater damage on both Demons and the Undead when making melee attacks. Rolling a 6 on attacks against these creatures, you automatically inflict a second strike and continue to roll the critical.
+      </div>
+
+      <div>
+         <b>Doctor</b> - You can heal allies 1 Strike between scenes in narative time. Start with a healing kit with 6 uses. 
       </div>
    </section>
 </article>
