@@ -412,7 +412,7 @@
       </div>
       
       <div>
-         <b>Diplomat</b> - You are a master of the negotiated solution, and brimming with raw charisma. Boon to all social checks. 
+         <b>Diplomat</b> - You are a master of the negotiated solution, and brimming with raw charisma. Boon to all social checks. In addition, choose 2 extra languages. 
       </div>
 
       <div>
@@ -454,6 +454,10 @@
       </div>
 
       <div>
+         <b>Linguist</b> - You have a natural capacity for language or have by experience or study learned a great number of them. Pick five extra languages. 
+      </div>
+
+      <div>
          <b>Lockpicking</b> - Provided tools and time, you will always be able to pick a lock, or disarm a mechanical trap. Roll 1d6 to see how long it takes (lower takes longer, 1 breaks your tools). Start with a set of 3 lockpicks. 
       </div>
 
@@ -465,5 +469,13 @@
          <b>Slippery</b> - You can roll to escape any "bad situation" on a 4+ (grabbed, falls etc.) Although you cannot escape a combat hit, you can roll to escape a grapple. This roll takes no actions, it just happens. 
       </div>
 
+
+      <div>
+         <b>Sneaky</b> - You have a boon to hiding and moving around unseen.
+      </div>
+
+      <div>
+         <b>Sticky Fingers</b> - You can steal small objects with a boon from targets and remain unnoticed givent the opportunity, unless you roll a 1 (double ones with the boon). A challenging environment or target might inflict a bane on the attempt putting the filcher back to rolling a flat one die. 
+      </div>
    </section>
 </article>
