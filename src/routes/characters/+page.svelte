@@ -481,5 +481,11 @@
       <div>
          <b>Sweek or Swift Attack</b> - You can melee attack all enemies next to you as your action. (roll for each target)
       </div>
+
+      <div>
+         <b>Tough Bastard</b> 0- When you would take you lst strike, roll a check on a single die. On a 4+ you do not take that strike. This does not stack with any other similar inclination.
+      </div>
+
+      
    </section>
 </article>
