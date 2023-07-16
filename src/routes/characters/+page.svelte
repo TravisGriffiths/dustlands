@@ -292,6 +292,14 @@
          <div>
 
             <div class="my-2">
+               <i>Martial Instruction</i> - Somewhere, somehow, you gained access to, and mastery to the martial skills of a full blown <a href="#/styles">Martial Style</a> decide on the style, source and details. 
+            </div>
+
+            <div class="my-2">
+               <i>Enemies</i> - No one gets as good as you are without fighting somehone. This causes enemies. Choose yours and record who they are. 
+            </div>
+
+            <div class="my-2">
                <i>Shield Sacrifice</i> - Once per scene as a free action, you may choose to deflect all attack damage from yourself or a close ally 
                for the entire round, but your shield is destroyed by this maneuver. You can activate this even after damage has been inflicted.
                You may spend 5 karma to avoid destroying your shield. If your shield is destroyed, your Armor save becomes the normal shieldless 4+. 
@@ -527,5 +535,21 @@
          <li>Do you have a specific weakness or vice?</li>
          <li>Do you have an enemy or a hated ideal?</li>
       </ul>
+   </section>
+
+   <section>
+      <h2>Circles of Sorcery</h2>
+   </section>
+
+   <section>
+      <h2>Martial Styles</h2>
+      Warriors do not learn to fight at the level that they do simply by making friends. They must be trained by a experienced fighters. This is one of the main seperators between most roles that can use weapons and the specific abilities of a Warrior. For this reason, warriors need to choose a source of this training, and also to choose at least one group they have been fighting to this point. 
+
+      <h4>Martial Organizations</h4>
+      These are common groups with enough resources and experience to train full warriors. When, and how your character was recruited, trained and relates to the martial group they learned from should be recorded.
+      <ul>
+         <li><b>Noble or Wealthy Trade Houses</b> - Any group of sufficient wealth and power will gain sufficient enemies to require that retinues of men at arms must be hired, trained and recruited </li>
+      </ul>
+
    </section>
 </article>
