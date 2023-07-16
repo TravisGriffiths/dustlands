@@ -462,7 +462,7 @@
       </div>
 
       <div>
-         <b>Slippery</b>
+         <b>Slippery</b> - You can roll to escape any "bad situation" on a 4+ (grabbed, falls etc.) Although you cannot escape a combat hit, you can roll to escape a grapple. This roll takes no actions, it just happens. 
       </div>
 
    </section>
