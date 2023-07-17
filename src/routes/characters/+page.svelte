@@ -572,8 +572,11 @@
       A small, but usually popular circle of magic. Illusion can make full sensory experiences occur in the minds of many subjects. Most people experience this as a rare and exquisite form of mass entertainment. The wealthy compete to have the most artistic and creative illusionists entertain them and thier guests. Unlike most magics which resist at one resist die per target, illusions can affect many at once with far less difficulty. Small groups resit with 2 dice and even large groups with 3 dice. 
       More nefarious uses of illusions are certainly possible, and known. These may or may not be offered openly for sale as services, depending on the community. Illusion requires fairly large communities to support itself, though pairs of master and apprentice, especially iternerant can be supported almost anywhere. 
 
-      <h3>Necromacy</h3>
+      <h3>Necromancy</h3>
       Both reviled and lavishly supported. Schools of necromancy happen everywhere there is wealth and power. Often at least partially hidden or camoflaged the draw and power of necromancy is simple. This is the only circle of magic able to semi-reliably raise the dead, and, perhaps more insidious, to slow or reverse aging, at least for a time. Many "physicians" of the rich and powerful is a necromancer, tasked with keeping them young and raising them if tradgedy strikes. 
+      In an emergency...or on a whim, necromancers may create lesser undead. Resistance is one die per body animated. Unconciousness will break control of these minions. Since this includes sleep, there are often chambers of these servants locked up and ready to go as needed.
+      Necromancers also can use skulls to hold simple spirits. These servants are somewhat intelligent and can both see around the skull and speak, making perfect unsleeping watchers and able to convey messages. 
+      Lastly, necromancers have the ability to speak with dead. This allows them to assist and serve as witnesses for the murdered. In most communities, either the Shadow weavers or the Necromancers will have this role, almost never both. 
 
       <h3>Seers</h3>
       Those that See, the Circle of Seers exist in a swirl of the very skien of fate as it swirls around them. They are usually well integrated into communities, and do well for themselves. Not as well as most would suspect. Everyone thinks they want to know the future, at least until they actually are told it. Everyone, at some point is likely to seek the service of the Seers. Far fewer are enlightened greatly by the experience. 
