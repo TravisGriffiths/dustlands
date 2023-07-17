@@ -544,7 +544,7 @@
 
    <section>
       <h2>Circles of Sorcery</h2>
-      Conjurer characters must pick one of the following circles of Sorcery. Different diciplines have different levels of acceptance and power in the world. 
+      <b>Conjurer</b> characters must pick one of the following circles of Sorcery. Different diciplines have different levels of acceptance and power in the world. 
       In larger settlements, wealthy circles will often maintain full schools, possibly with open enrollment for all. Others recruit carefully and secretly. 
       In smaller communities, or with less popular groups, magical education is more likely to take place between a single Master and Apprentice.
       The gift of Magic is a great one in all cases. Conjurers will all have some obligation back to their Masters, and most probably the Circle at large. 
@@ -552,12 +552,12 @@
 
       <h3>Binding</h3>
       Binding is the Circle of capture and linking. They are not a large or rich school. They are very useful when dealing with Demons, or very large monsters. 
-      As such, they are one of the most marial of all the circles of magic, comprising what amounts to a guild of monster hunters. This is usually in the form of an independent arcane martial order. 
-      All members of the Circle of Binding have the power to use arcane bands, usually in the form of chains, but tenticles and other forms are known. These bands can move objects and grapple opponents. 
+      As such, they are one of the most martial of all the circles of magic, comprising what amounts to a guild of monster hunters. This is usually in the form of an independent arcane martial order. 
+      All members of the Circle of Binding have the power to use arcane bands, usually in the form of chains, but tentacles and other forms are known. These bands can move objects and grapple opponents. 
       Anything in near range is reachable. The bands must be maintained with an anchor. Breaking free requires an action and a roll of 6. 
    
   
-      <h3>Druididic</h3>
+      <h3>Druidic</h3>
       A popular, and socially very well supported circle of magic. Druids are central and crucial for securing food supplies in most communities. In many smaller communities and tribes they are actively in charge. Druids control the power of plants, modifying existing plants or bringing forth new plant life from raw magical power. 
       Plant magic requires anchoring to maintain. Losing the anchor cause the plants to rapidly die and wither away, unless the magic is executed in a very slow and deliberate way (narative time). In this way Druids are able to fertilize crops and orchards, and maximize the agricultural output from them. This is the work of days and more often weeks of slow and deliberate magical cultivation.
       Druids can create walls, ropes and snares of plants in seconds, but these last only as long as the druid concentrates on them. Breaking free of Druidic snares requires a roll of 6 and a ful action to make the attempt. 
