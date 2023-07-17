@@ -488,6 +488,7 @@
 
       <div>
          <b>Sticky Fingers</b> - You can steal small objects with a boon from targets and remain unnoticed givent the opportunity, unless you roll a 1 (double ones with the boon). A challenging environment or target might inflict a bane on the attempt putting the filcher back to rolling a flat one die. 
+         In addition, you can do simple slight of hand "magic tricks" to entertain or impress...or cheat at games of chance...
       </div>
 
       <div>
