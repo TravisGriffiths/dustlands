@@ -547,16 +547,30 @@
       All members of the Circle of Binding have the power to use arcane bands, usually in the form of chains, but tenticles and other forms are known. These bands can move objects and grapple opponents. 
       Anything in near range is reachable. The bands must be maintained with an anchor. Breaking free requires an action and a roll of 6. 
    
-      <h3>Warmages</h3>
-      The order of warmages is a popular and powerful circle of magic, which focuses on pure damage dealing. The social integration of this group is usually some kind of well compensated service to the dominant local power. Losing support of the warmages is a good way to lose controls of power, and this has happened more than a few times in known history.  
-      These mages are not subtle. Unlike other Sorcerers, they are able to do so much damage in a single attack so as to do 2 strikes of damage per attack if desired. Striking a warmage with a melee weapon will sometimes cause the attacker to suffer burns of raw chaos themselves. Any attacker rolling 1 on a melee attack against a war mage takes a strike of damage from these burns. 
-      These mages are more attuned to magic than others and can feel magic in the environment around them. Being a warmage has a significant downside, in that the risk and consequenses of spellburn is greatly increased. Most older war mages sport great scars of this. Mechanically, when taking spellburn, the GM will roll random effects that will strike yourself and those around you. 
-   
+  
       <h3>Druids</h3>
       A popular, and socially very well supported circle of magic. Druids are central and crucial for securing food supplies in most communities. In many smaller communities and tribes they are actively in charge. Druids control the power of plants, modifying existing plants or bringing forth new plant life from raw magical power. 
       Plant magic requires anchoring to maintain. Losing the anchor cause the plants to rapidly die and wither away, unless the magic is executed in a very slow and deliberate way (narative time). In this way Druids are able to fertilize crops and orchards, and maximize the agricultural output from them. This is the work of days and more often weeks of slow and deliberate magical cultivation.
       Druids can create walls, ropes and snares of plants in seconds, but these last only as long as the druid concentrates on them. Breaking free of Druidic snares requires a roll of 6 and a ful action to make the attempt. 
 
+      <h3>Elemental/h3>
+      The circle of the Elements is almost as ingrained as the circle of Druids. Each Elementalist is a specialist and must choose one of the four elements. Pyromancers focus on fire, Hydromancers on water, Aeromancers on air, and Terromancers on earth. Because of this specialization, unlike most circles, each of these specialties will very often form fully seperate groups that are fully independent, and at odds with each other.
+      Fire magic powers much of existing industry. Forging and metalwork is nearly impossible without it. Water magic is critcal to allowing most settlements to exist, as very few places have sufficient natural water supplies to support the populations they have. Air magic is very similarly used to mine clouds of enough moisture to support populations that would otherwise be impossible.
+      These two groups are often in direct competition to be the critical provider of water supply. Earth magic is central in creating soil that is able to yield enough food to sustain communities. Earth mages are often in direct support of druids and vice versa. Occasionally, these groups will merge into a single organization in some communities. In addition, earth magic is used to create shelter and constructions out of sand, dust and stone, quickly and of great quality. 
+      Most fortresses and many buildings are in part or total earth mage construction. 
+
+      <h3>Illusion</h3>
+      A small, but usually popular circle of magic. Illusion can make full sensory experiences occur in the minds of many subjects. Most people experience this as a rare and exquisite form of mass entertainment. The wealthy compete to have the most artistic and creative illusionists entertain them and thier guests. Unlike most magics which resist at one resist die per target, illusions can affect many at once with far less difficulty. Small groups resit with 2 dice and even large groups with 3 dice. 
+      More nefarious uses of illusions are certainly possible, and known. These may or may not be offered openly for sale as services, depending on the community. Illusion requires fairly large communities to support itself, though pairs of master and apprentice, especially iternerant can be supported almost anywhere. 
+
+      <h3>Necromacy</h3>
+      Both reviled and lavishly supported. Schools of necromancy happen everywhere there is wealth and power. Often at least partially hidden or camoflaged the draw and power of necromancy is simple. This is the only circle of magic able to semi-reliably raise the dead, and, perhaps more insidious, able to, slow or reverse aging, at least for a time. Many "physicians" of the rich and powerful is a necromancer, tasked with keeping them young and raising them if tradgedy strikes. 
+
+      <h3>Warmages</h3>
+      The order of warmages is a popular and powerful circle of magic, which focuses on pure damage dealing. The social integration of this group is usually some kind of well compensated service to the dominant local power. Losing support of the warmages is a good way to lose controls of power, and this has happened more than a few times in known history.  
+      These mages are not subtle. Unlike other Sorcerers, they are able to do so much damage in a single attack so as to do 2 strikes of damage per attack if desired. Striking a warmage with a melee weapon will sometimes cause the attacker to suffer burns of raw chaos themselves. Any attacker rolling 1 on a melee attack against a war mage takes a strike of damage from these burns. 
+      These mages are more attuned to magic than others and can feel magic in the environment around them. Being a warmage has a significant downside, in that the risk and consequenses of spellburn is greatly increased. Most older war mages sport great scars of this. Mechanically, when taking spellburn, the GM will roll random effects that will strike yourself and those around you. 
+ 
    </section>
 
    <section>
