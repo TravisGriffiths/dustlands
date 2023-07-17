@@ -404,11 +404,12 @@
       </div>
 
       <div>
-         <b>Cantrips</b> - Not fully trained in Sorcery, but either from natural talent, or an abbriviated education, you are able to manifest basic spell effects. This is usually things like moving small near objects slowly, creating light in your hand, or producing minor illusions. These must be anchored to continue.
+         <b>Cantrips</b> - Not fully trained in Sorcery, but either from natural talent, or an abbriviated education, you are able to manifest basic spell effects. This is usually things like moving small near objects slowly, creating light in your hand, or producing minor illusions. These must be anchored to continue, and cannot cause damage.
       </div>
 
       <div>
-         <b>Catlike</b> - Can only ever be knoocked prone if hit by a critical and have a 4+ miraculous save against falls.
+         <b>Catlike</b> - Can only ever be knocked prone if hit by a critical and have a 4+ miraculous save against falls.
+         In addition, either by nature or training you have a boon to climb steep surfaces and make jumps across voids. 
       </div>
 
       <div>
@@ -480,7 +481,6 @@
       <div>
          <b>Slippery</b> - You can roll to escape any "bad situation" on a 4+ (grabbed, falls etc.) Although you cannot escape a combat hit, you can roll to escape a grapple. This roll takes no actions, it just happens. 
       </div>
-
 
       <div>
          <b>Sneaky</b> - You have a boon to hiding and moving around unseen.
