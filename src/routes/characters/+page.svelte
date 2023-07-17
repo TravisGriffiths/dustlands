@@ -544,7 +544,11 @@
 
    <section>
       <h2>Circles of Sorcery</h2>
-
+      Conjurer characters must pick one of the following circles of Sorcery. Different diciplines have different levels of acceptance and power in the world. 
+      In larger settlements, wealthy circles will often maintain full schools, possibly with open enrollment for all. Others recruit carefully and secretly. 
+      In smaller communities, or with less popular groups, magical education is more likely to take place between a single Master and Apprentice.
+      The gift of Magic is a great one in all cases. Conjurers will all have some obligation back to their Masters, and most probably the Circle at large. 
+      The politics of mages is deep, intracate and long, and there is no escaping it. 
 
       <h3>Binding</h3>
       Binding is the Circle of capture and linking. They are not a large or rich school. They are very useful when dealing with Demons, or very large monsters. 
@@ -553,12 +557,12 @@
       Anything in near range is reachable. The bands must be maintained with an anchor. Breaking free requires an action and a roll of 6. 
    
   
-      <h3>Druids</h3>
+      <h3>Druididic</h3>
       A popular, and socially very well supported circle of magic. Druids are central and crucial for securing food supplies in most communities. In many smaller communities and tribes they are actively in charge. Druids control the power of plants, modifying existing plants or bringing forth new plant life from raw magical power. 
       Plant magic requires anchoring to maintain. Losing the anchor cause the plants to rapidly die and wither away, unless the magic is executed in a very slow and deliberate way (narative time). In this way Druids are able to fertilize crops and orchards, and maximize the agricultural output from them. This is the work of days and more often weeks of slow and deliberate magical cultivation.
       Druids can create walls, ropes and snares of plants in seconds, but these last only as long as the druid concentrates on them. Breaking free of Druidic snares requires a roll of 6 and a ful action to make the attempt. 
 
-      <h3>Elemental/h3>
+      <h3>Elemental</h3>
       The circle of the Elements is almost as ingrained as the circle of Druids. Each Elementalist is a specialist and must choose one of the four elements. Pyromancers focus on fire, Hydromancers on water, Aeromancers on air, and Terromancers on earth. Because of this specialization, unlike most circles, each of these specialties will very often form fully seperate groups that are fully independent, and at odds with each other.
       Fire magic powers much of existing industry. Forging and metalwork is nearly impossible without it. Water magic is critcal to allowing most settlements to exist, as very few places have sufficient natural water supplies to support the populations they have. Air magic is very similarly used to mine clouds of enough moisture to support populations that would otherwise be impossible.
       These two groups are often in direct competition to be the critical provider of water supply. Earth magic is central in creating soil that is able to yield enough food to sustain communities. Earth mages are often in direct support of druids and vice versa. Occasionally, these groups will merge into a single organization in some communities. In addition, earth magic is used to create shelter and constructions out of sand, dust and stone, quickly and of great quality. 
