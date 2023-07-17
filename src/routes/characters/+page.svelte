@@ -543,6 +543,14 @@
 
       <h3>Binding</h3>
       Binding is the Circle of capture and linking. They are no a large or rich school. They are very useful when dealing with Demons, or very large monsters. 
+      As such, they are one of the most marial of all the circles of magic, comprising what amounts to a guild of monster hunters. This is usually in the form of an independent arcane martial order. 
+      All members of the Circle of Binding have the power to use arcane bands, usually in the form of chains, but tenticles and other forms are known. These bands can move objects and grapple opponents. 
+      Anything in near range is reachable. The bands must be maintained with an anchor. Breaking free requires an action and a roll of 6. 
+   
+      <h3>Warmages</h3>
+      The order of warmages is a popular and powerful circle of magic, which focuses on pure damage dealing. The social integration of this group is usually some kind of well compensated service to the dominant local power. Losing support of the warmages is a good way to lose controls of power, and this has happened more than a few times in known history.  
+      These mages are not subtle. Unlike other Sorcerers, they are able to do so much damage in a single attack so as to do 2 strikes of damage per attack if desired. Striking a warmage with a melee weapon will sometimes cause the attacker to suffer burns of raw chaos themselves. Any attacker rolling 1 on a melee attack against a war mage takes a strike of damage from these burns. 
+      These mages are more attuned to magic than others and can feel magic in the environment around them. Being a warmage has a significant downside, in that the risk and consequenses of spellburn is greatly increased. Most older war mages sport great scars of this. Mechanically, when taking spellburn, the GM will roll random effects that will strike yourself and those around you. 
    </section>
 
    <section>
