@@ -388,6 +388,10 @@
       </div>
 
       <div>
+         <b>Armored</b> - You have trained in using, and fighting in Armor, allowing you to wear heavier armor than usual. Make armor saves at 5+. Only characters having roles with Light Armor saves can benefit from this. 
+      </div>
+
+      <div>
          <b>Arcane Scholar</b> - You have no sorcery yourself, but have been trained in or otherwise learned to cast spells from scrolls. Start with 2 random scrolls.
       </div>
 
