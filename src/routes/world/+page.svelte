@@ -39,8 +39,16 @@
 
       <h3>The Facets of the Divine</h3>
       Facets are not dieties, but rather domains, interests, or foci of divine power. They are as follows:
+      <h4>Life</h4>
+      The animating force that fills all living things and makes life possible. 
       <h4>Light</h4>
-      <h4></h4>
+      The energy of the universe powering life. 
+      <h4>Magic</h4>
+      The raw flow of magic usually expressed as a movement of energy from Light to Dark, Life to Death. 
+      <h4>Death</h4>
+      The opposite of life, but also what makes it distinct and makes the flow of life possible. 
+      <h4>Dark</h4>
+      The absence of light, giving it meaning and creating a void that light can flow into creating life and magic. 
    </section>
 
 </article>
