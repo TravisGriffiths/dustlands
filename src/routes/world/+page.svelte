@@ -44,9 +44,9 @@
       <h4>Light</h4>
       The energy of the universe powering life. 
       <h4>Magic</h4>
-      The raw flow of magic usually expressed as a movement of energy from Light to Dark, Life to Death. 
+      The raw flow of magic usually expressed as a movement of energy from Light to Dark, Life to Death. Usually called simply "Flow". 
       <h4>Death</h4>
-      The opposite of life, but also what makes it distinct and makes the flow of life possible. It is important to know that what is thought of as "living" is thought to be a process of moving from birth to death. Without the movement, often called "Flow" there is only pure Energy and Entropy, nothing can happen.
+      The opposite of life, but also what makes it distinct and makes the flow of life possible. It is important to know that what is thought of as "living" is thought to be a process of moving from birth to death. Without Flow, there is only pure Energy and Entropy, nothing can happen.
       <h4>Dark</h4>
       The absence of light, giving it meaning and creating a void that light can flow into creating life and magic. 
 
