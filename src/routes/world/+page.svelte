@@ -81,12 +81,16 @@
       <h4>Deism</h4>
       Totally distinct to the real world Diesm, these are religions who understand the Divine Entities to be literal, actual Gods. 
       They are thought to be beings of immense power, but with personalities, wants, desires, and hatreds. 
-      Deist sects are probably the oldest religions in the world. Here are the most common:
-      <h5>Pentarcy</h5>
-      The belief that the Five created, oversee, and actively manage the world. The goal in life is to find excellence and balance at all stages, birth to death. 
+      Deist sects are probably the oldest religions in the world.
+
+      <hr>
+
+      <h5>Pentarcism</h5>
+      The Pentarchy is of the belief that the Five created, oversee, and actively manage the world. The goal in life is to find excellence and balance at all stages, birth to death. 
       The Gods are equally revered and honored at the appropriate times. This is an old and conservative faith of intracate and ridgid traditions. 
       It is also quite common, particularly among the rich and powerful. 
 
+      <h5></h5>
    </section>
 
 </article>
