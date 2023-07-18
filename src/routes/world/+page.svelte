@@ -55,10 +55,23 @@
       What is agreed on and can be confirmed by observation is the existance of the five...entities, for lack of a less controversial term, that are often referred to as Dieties. 
 
       <h4>Atun</h4>
-      <b>Life and Magic</b> - Diety of living and energy. Often referred to as "The Source". Given the merciless nature of the full sun, also understood to be something that is essential in part but utterly destructive in over-abundance. 
+      <b>Light and Magic</b> - Diety of light and pure energy. Often referred to as "The Source". Given the merciless nature of the full sun, also understood to be something that is essential in part but utterly destructive in over-abundance. 
       <h4>Anubus</h4>
-      <b>Magic and Death</b> - Diety of the spiritual flow of magic energy towards the entropy of Death. While Atun is the mountain top and the alpine spring of water, Anubis is the valley and pit of endless sand that makes it flow and come alive. 
+      <b>Magic and Death</b> - Diety of magic and energy towards the entropy of Death, "The Flow". While Atun is the mountain top and the alpine spring of water, Anubis is the valley and pit of endless sand that makes it flow and come alive. 
+      <h4>Nergal</h4>
+      <b>Death and Dark</b> - Diety of entropy. Often referred to as "The Potential". Not seen as an "evil" force, but just as much of a essential element and enabler of Flow as Atun. 
+      <h4>Gia</h4>
+      <b>Dark and Life</b> - Diety of Nature and Life, "The Cycle". Gia is a diety of renewal, the force that returns Potential to the Source to start the cycle anew, differently, uniquely, each time. 
+      <h4>'Ta</h4>
+      <b>Life and Light</b> - Diety of pure Living Energy, "The Beginning". 'Ta starts all life on its journey, again and again. 
+      
+      <h3>Religions</h3>
+      Having grown up in a monothiest culture, we are very glued to the idea of "One God one Religion", which is actually quite a new and culturally specific idea. 
+      Since all the Dieties, or whatever they are have actual manifestations and effects on the world, "existance" of one diety or other is not especially interesting. 
+      What is very much up for debate is the <b>Nature</b> of these Divine forces. These religions have millenia of bloody history, and very often fight within each other more than against each other. 
+      All characters have a religion, essentially an opinon on how they think all of this fits together. How they practice that opinon is entirely up to the player. 
 
+      <h4>Diests</h4>
    </section>
 
 </article>
