@@ -67,15 +67,26 @@
       
       <h3>Religions</h3>
       Having grown up in a monothiest culture, we are very glued to the idea of "One God one Religion", which is actually quite a new and culturally specific idea. 
-      Since all the Dieties, or whatever they are have actual manifestations and effects on the world, "existance" of one diety or other is not especially interesting. 
-      What is very much up for debate is the <b>Nature</b> of these Divine forces. These religions have millenia of bloody history, and very often fight within each other more than against each other. 
+      In Gauldaur, since all the Dieties, or whatever they are, have actual manifestations and effects on the world, "existance" of one diety or other is not especially interesting. 
+      What is very much up for debate is the <b>Nature</b> of these Divine forces. The mechanics of <i>How</i> the divine universe functions is called "Maat", and is anything but self evident. 
+      Each religion is a sect codifying beliefs on how Maat works, and probably more important, how a proper, successful person should act within this framework. 
+      These religions have millenia of bloody history, and very often fight within each other more than against each other. 
       All characters have a religion, essentially an opinon on how they think all of this fits together. How they practice that opinon is entirely up to the player. 
+      Looking through these, it should be clear that ideas divergent from the small enumerations here are entirely possible. 
+      This is not a complete list of all the religions in existance for this reason. That being said, these are the most common organized faiths. 
+      A character with a differing opinion must choose to socially ascribe to a faith (go along with it), or to pursue Heresy. 
+      This is not the time of the inquisition. No one is getting burned at the stake, but openly expressing divient beliefs will have social consequenses. 
+      This would be like publicly expressing true belief in a Flat Earth or similar. No one is going to lock you up, but there will be degrees of friction and ostracism. 
 
       <h4>Deism</h4>
       Totally distinct to the real world Diesm, these are religions who understand the Divine Entities to be literal, actual Gods. 
       They are thought to be beings of immense power, but with personalities, wants, desires, and hatreds. 
       Deist sects are probably the oldest religions in the world. Here are the most common:
       <h5>Pentarcy</h5>
+      The belief that the Five created, oversee, and actively manage the world. The goal in life is to find excellence and balance at all stages, birth to death. 
+      The Gods are equally revered and honored at the appropriate times. This is an old and conservative faith of intracate and ridgid traditions. 
+      It is also quite common, particularly among the rich and powerful. 
+
    </section>
 
 </article>
