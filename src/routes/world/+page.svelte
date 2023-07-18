@@ -46,9 +46,19 @@
       <h4>Magic</h4>
       The raw flow of magic usually expressed as a movement of energy from Light to Dark, Life to Death. 
       <h4>Death</h4>
-      The opposite of life, but also what makes it distinct and makes the flow of life possible. 
+      The opposite of life, but also what makes it distinct and makes the flow of life possible. It is important to know that what is thought of as "living" is thought to be a process of moving from birth to death. Without the movement, often called "Flow" there is only pure Energy and Entropy, nothing can happen.
       <h4>Dark</h4>
       The absence of light, giving it meaning and creating a void that light can flow into creating life and magic. 
+
+      <h3>Dieties</h3>
+      What exactly dieties are and how they fit together is the subject of Religion, (see below). There is infinate disagreement about these points.
+      What is agreed on and can be confirmed by observation is the existance of the five...entities, for lack of a less controversial term, that are often referred to as Dieties. 
+
+      <h4>Atun</h4>
+      <b>Life and Magic</b> - Diety of living and energy. Often referred to as "The Source". Given the merciless nature of the full sun, also understood to be something that is essential in part but utterly destructive in over-abundance. 
+      <h4>Anubus</h4>
+      <b>Magic and Death</b> - Diety of the spiritual flow of magic energy towards the entropy of Death. While Atun is the mountain top and the alpine spring of water, Anubis is the valley and pit of endless sand that makes it flow and come alive. 
+
    </section>
 
 </article>
