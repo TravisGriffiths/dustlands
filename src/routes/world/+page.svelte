@@ -90,7 +90,19 @@
       The Gods are equally revered and honored at the appropriate times. This is an old and conservative faith of intracate and ridgid traditions. 
       It is also quite common, particularly among the rich and powerful. 
 
-      <h5></h5>
+      Core Beliefs 
+      <ul>
+         <li><b>No Murder</b> - Murder deflects the Flow in accordance to mortal desires. This will upset the Divine.</li>
+         <li><b>No Stealing</b> - Same thing at a lesser level. Things are distributed for A Reason.</li>
+         <li><b>Be Fecund</b> - Adherents should try to build, plant, expand as much as possible. The more people, cities, crafts and business that can be started the more Flow is created for the Divine to work with. </li>
+      </ul>
+
+      <h5>Sangism</h5>
+      Sanguists believe the Gods exist and work, but are largely uncaring or simply unaware of mortals. The Divine Order is more of a Grand Machine. 
+      To thrive and succeed, a person needs to engineer better results. This is accomplished by actively attempting to sway and appease the Gods directly. 
+      Sanguists usually involve magic in religious rites, and actively study and experiment with Miracles, trying to break them down to a reproducable "science". 
+      The ultimate goal is to engineer a spiritual experience optimized to provide practicioners optimal prosperity.
+      Sanguists follow much of the same  
    </section>
 
 </article>
