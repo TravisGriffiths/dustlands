@@ -1,7 +1,7 @@
 <article>
 
    <section>
-      <h1>Grabin</h1>
+      <h1 id="grabin">Grabin</h1>
       A once verdant and advanced world of magic and technology rendered to ruins and sand by the great Cataclysm. Civilization clings to the poles where temperatures allow for enough water to allow for some grassland and rain. The equatorial regions are heat baked death zones full of nothing but rock, sand and scorching death...and the treasures of the World that Was.
 
       <h2>The World That Was</h2>
@@ -14,18 +14,33 @@
       <h3>Cosmology</h3>
       At the poles days are called Turns. This is because it is one revolution of Grabin...a day, but being a polar zone, this does not correspond to day and night. Grabin orbits its sun every twelve days. This causes the light and dark cycle break down into four turns of "Night" which are fully dark as the pole is inclined away from the sun. There are four turns of "Day" when the inclination is towards the sun during which temperatures get progressively hotter, becoming unbearable by the end. Between these are "Waning" and "Waxing" which are four turns of shortening and lengthening of the daylight period. Night is never full darkness like here. First there is the Moon, which is very close, very large and moves very quickly across the sky, making 3 full orbits per turn. In addition, Tersus, the night star hangs shining in the night sky, moving around once per turn and giving off a wan white light.
 
-      <h2>The Great Cities</h2>
+      <h2 id="cities">The Great Cities</h2>
       The largest and most powerful political entities in the South are known as The Great Cities. These are the few places where significant populations, water and food supply has allowed something like a traditional nation states to arise controlling the territory around them for some distance. While these are the largest enties,, they are not the only ones, with many smaller settlements making up baronies and independant small city states. Most people however live in small fortified rural communities and nomadic tribes that sparsely populate the barrens of the South. The Great cities are:
       <ul>
-         <li><b class="mr-2">Gauldaur</b> <i>City of Water, The Canyon Citadel</i> 
+         <li id="galdaur"><b class="mr-2">Gauldaur</b> <i>City of Water, The Canyon Citadel</i> 
             <div>
                Gauldaur is built where an ancient river eroded a thin and deep gash cutting through a high plateau to the valley floor below. Two linked fortresses have been built on both sides of this canyon and the land around quarried out to make an immense dry moat. Meanwhile the magic of the Water Lords fills the depths of the canyons with some of the best source renewable water still found in the Dustlands. The rock quarried out from around the canyon has been turned into both a massive dam at the mouth of the canyon and a truly impressive collection of buildings on the canyon walls.
                The lands surrounding Gauldaur are relatively wet, supporting some of the greenest stands of trees, orchards and grasslands extending many miles from the city itself. The crest of the city is a blue field with the twin fortresses in black upon it.
                Gauldurian culture centers around religion and stands out for excellent social mobility. Marriage is monogamous and inheritence is uniquely by ultimogeniture, inheritence of all property by the youngest. 
             </div>
          </li>
+         <li id="kaeldash"><b class="mr-2"></b>
+
+         </li>
       </ul>
 
+   </section>
+
+   <section>
+      <h2>Gods</h2>
+      Divine power is fully manifest in the world. Everyone has seen and felt it a few times. It seems the God divide into 5 entities split between 5 facets of divinity. 
+      The details of how this works and what various holy men, temples and faiths think of it generally do not much bother most people. 
+      However, everyone is religious, in that since the power of the Divine exists, every person has an opinon on how they relate to this power. 
+
+      <h3>The Facets of the Divine</h3>
+      Facets are not dieties, but rather domains, interests, or foci of divine power. They are as follows:
+      <h4>Light</h4>
+      <h4></h4>
    </section>
 
 </article>
