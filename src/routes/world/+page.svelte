@@ -71,7 +71,11 @@
       What is very much up for debate is the <b>Nature</b> of these Divine forces. These religions have millenia of bloody history, and very often fight within each other more than against each other. 
       All characters have a religion, essentially an opinon on how they think all of this fits together. How they practice that opinon is entirely up to the player. 
 
-      <h4>Diests</h4>
+      <h4>Deism</h4>
+      Totally distinct to the real world Diesm, these are religions who understand the Divine Entities to be literal, actual Gods. 
+      They are thought to be beings of immense power, but with personalities, wants, desires, and hatreds. 
+      Deist sects are probably the oldest religions in the world. Here are the most common:
+      <h5>Pentarcy</h5>
    </section>
 
 </article>
