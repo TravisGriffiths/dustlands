@@ -160,8 +160,8 @@
    do not often give up souls. 
 
    <h2 id="spells">Magic & Miracles</h2>
-   Full magic casters will have a "circle" of magic in which they have been inducted or otherwise trained. This sets the flavor and tone of all the spell effects they can use. These effects are <T c="b">not</T> enumerated. Magic is chaos and doesn't sit in a dictionary to be memorized or cataloged. Each caster has to navigate the path the mastering chaos personally, and even casters the same circle who studied the same effect under the same teacher will have significant, even huge differences in all the details of magical effects they create. For players this means they make up spells as desired, in accordance with the flavor of the character's chosen circle. The resistance roll against the effect taking place is decided by the GM depending on how expansive, powerful and closely the spell adhears to the casters circle. For simple effects happening in narative time that hold to the flavor of a magic circle is unlikely to require a roll at all. A elemental pyromancer can light fires in narrative time without having to roll. For other effects, with some exceptions, a caster can only cause a single strike of damage, which will be resisted with a single die. 
-   Adding targets, adds dice, up to the maximum of 6. A few circles bend these guidelines a bit. 
+   Full magic casters will have a "circle" of magic in which they have been inducted or otherwise trained. This sets the flavor and tone of all the spell effects they can use. These effects are <T c="b">not</T> enumerated. Magic is chaos and doesn't sit in a dictionary to be memorized or cataloged. Each caster has to navigate the path the mastering chaos personally, and even casters the same circle who studied the same effect under the same teacher will have significant, even huge differences in all the details of magical effects they create. For players this means they make up spells as desired, in accordance with the flavor of the character's chosen circle. The resistance roll against the effect taking place is decided by the GM depending on how expansive, powerful and closely the spell adhears to the casters circle. For simple effects happening in narrative time that hold to the flavor of a magic circle is unlikely to require a roll at all. E.g. an elemental pyromancer can light fires in narrative time without having to roll. For other effects, with some exceptions, a caster can only cause a single strike of damage, which will be resisted with a single die. 
+   Adding targets, adds dice at 1:1, up to the maximum of 6. A few circles bend these guidelines a bit. 
    Lesser effects are easier, while effects that instantly remove threats (e.g. turn an opponent to stone) will be harder. 
    Any spell that takes place over multiple rounds must be anchored, that is, concentrated on. 
    Only one effect can be anchored at a time. Taking any strikes, or falling unconcious will break the anchored spell.
@@ -187,12 +187,12 @@
    </ol>
 
    <h4>Effects</h4>
-   An incomplete list of possible effects 
+   An incomplete list of possible effects, use your imagination and do not be afraid to experiment.  
    <ul>
       <li>Dulled Senses</li>
-      <li>Afraid</li>
-      <li>Exhausted</li>
-      <li>Force Move</li>
+      <li>Fear</li>
+      <li>Fatigue</li>
+      <li>Pushing/Pulling</li>
       <li>Immobile</li>
       <li>Knocked Down</li>
       <li>Cursed</li>
@@ -219,14 +219,14 @@
 
    <h2 id="scrolls">Scrolls, Potions and Magic Items</h2>
    Scrolls are consumable magic items that allow characters with the proper training to cast the magic contained in them. 
-   They are destroyed on use. Scrolls are most commonly written on sheets of paper, but can be any inscription of a spell ritual allowing the trained to make use a consumable spell effect. Clay tablets, carved bones, even tatoos are possible. These are created by Sorcerers, and require time and karma to complete. Most magic circles require acolytes to produce quite a few of these before they can graduate. These are most often sold or distributed and are a key source of the circles financial and political power. To cast from a scroll, a player rolls 2 six sided dice and reroll any ones (scrolls cannot critical fail by nature) for the casting check. 
+   They are destroyed on use. Scrolls are most commonly written on sheets of paper, but can be any encoding of a spell ritual allowing the trained to make use a consumable spell effect. Clay tablets, carved bones, even tatoos are possible. These are created by Sorcerers, and require time and karma to complete. Most magic circles require acolytes to produce quite a few of these before they can graduate. These are most often sold or distributed and are a key source of the circles financial and political power. To cast from a scroll, a player rolls 2 six sided dice and reroll any ones (scrolls cannot critical fail by nature) for the casting check. 
    
    <p></p> 
    
-   <b>Potions</b> are a different beast, being a consumable magic item usable by anyone. These are possible as magic is woven into the nature of the entire world, and those who have studied these natures can distill these effects and inclinations into useful effects. While circle sorcers often do study Alchemy, the full time creation of potions is usually done by trained Alchemists, who produce these as a primary job. Most settlements will have at least a single individual trained in creating potions. They may be willing to sell (or buy) both potions and ingredients from characters.
+   <b>Potions</b> are a different beast, being a consumable magic item usable by anyone. These are possible as magic is woven into the nature of the entire world, and those who have studied these natures can distill these effects and inclinations into useful effects. While circle mages often do study Alchemy, the full time creation of potions is usually done by trained Alchemists, who produce these as a primary job. Most settlements will have at least a single individual trained in creating potions. They may be willing to sell (or buy) both potions and ingredients from characters. In larger settlements, Alchemists often have an entire separate crafts guild just like any other mage circle. 
 
    <p></p>
 
-   Magic Items are created by Sorcerers much like Scrolls. The art of doing this well, and safely, is considerably more involved and thus tends to be a specialty within the schools. Artificers require significantly long times and karma to produce these items, and so are not typically done by characters. These items are often commisioned by the wealthy and powerful from skilled artificers. Once created, these items resist the passage of time and are hard to destroy, and so are prized treasures to be found in ruins and ancient sites. 
+   Magic Items are created by Sorcerers much like Scrolls. The art of doing this well, and safely, is considerably more involved and thus tends to be a specialty within the schools. Artificers require significantly long times and karma to produce these items, and so are not typically done by characters. These items are often commisioned by the wealthy and powerful from skilled artificers. Once created, these items resist the passage of time and are hard to destroy, and so are prized treasures to be found in ruins and ancient sites, giving one of the primary motivations to explore the Wastes.
 
 </article>
