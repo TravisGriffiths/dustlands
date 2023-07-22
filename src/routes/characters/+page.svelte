@@ -622,11 +622,5 @@
       <h4>Enemies</h4>
       Pick one or more enemies that you have been fighting up to this point in your life. 
 
-      <ul>
-         <li>Monsters: gain one armor reroll per scene fighting large foes</li>
-         <li>Criminals: gain boon to notice things when standing guard in an urban environment</li>
-         <li>Mercenaries: gain one armor reroll per scene when being directly attacked by 3 or more opponents</li>
-         <li>Cities: </li>
-      </ul>
    </section>
 </article>
