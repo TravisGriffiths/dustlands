@@ -169,9 +169,9 @@
    <h4>Spell Power</h4>
    Every caster can use from one to three dice to power thier spells and overcome the resistance roll. The trade off is that any one rolled 
    on any of these dice cause the spell to fail, no matter what the highest roll was, unless the caster decides to "push through" and take 
-   <T c="b">Spell Burn</T>. That is, they can choose to willingly take a strike of damage to have the spell succeed IF the roll would have otherwise been 
+   <b>Spell Burn</b>. That is, they can choose to willingly take a strike of damage to have the spell succeed IF the roll would have otherwise been 
    a success. This is totally up to the player. Using more dice on a spell has no other effect on things like the damage done. Spells 
-   <T c="b">CANNOT</T> be critical successes. 
+   <b>CANNOT</b> be critical successes. 
 
    <h4>Spell Cost</h4>
    Powerful spells may require the character spend karma to cast or maintain, at the option of the GM. 
