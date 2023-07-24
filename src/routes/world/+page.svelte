@@ -107,4 +107,10 @@
       Sanguists follow much of the same  
    </section>
 
+   <section>
+      <h2>Languages</h2>
+      The world coming out of the Cataclysm has far more linguistic diversity than it did going in. There are too many communities that have been geographically isolated for too long. 
+      Only now has some semblance of global trade begun again. Over the centuries what used to be the same language are now completely distinct. 
+   </section>
+
 </article>
