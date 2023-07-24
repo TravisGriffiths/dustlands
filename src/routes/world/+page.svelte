@@ -77,6 +77,8 @@
       A character with a differing opinion must choose to socially ascribe to a faith (go along with it), or to pursue Heresy. 
       This is not the time of the inquisition. No one is getting burned at the stake, but openly expressing divient beliefs will have social consequenses. 
       This would be like publicly expressing true belief in a Flat Earth or similar. No one is going to lock you up, but there will be degrees of friction and ostracism. 
+      Religions fall into 9 groups, based on the answers to 2 questions: What is the nature of the known Dieties, and what are the relationship of these Dieties to mortals?
+      While there are 9 groups, there are several examples of similar answers resulting in different, and often opposed churches, based on local power politics. 
 
       <h4>Deism</h4>
       Totally distinct to the real world Diesm, these are religions who understand the Divine Entities to be literal, actual Gods. 
